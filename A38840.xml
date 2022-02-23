@@ -1,0 +1,762 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Evil eye plucked out, or, A discourse proving that church revenues cannot be alienated by any secular persons or powers without a manifest violation of the known fundamental laws of this kingdom, and of publick justice, and a common-honesty</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 73 KB of XML-encoded text transcribed from 46 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38840</idno>
+            <idno type="STC">Wing E3555</idno>
+            <idno type="STC">ESTC R6758</idno>
+            <idno type="EEBO-CITATION">13705979</idno>
+            <idno type="OCLC">ocm 13705979</idno>
+            <idno type="VID">101487</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38840)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101487)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 842:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Evil eye plucked out, or, A discourse proving that church revenues cannot be alienated by any secular persons or powers without a manifest violation of the known fundamental laws of this kingdom, and of publick justice, and a common-honesty</title>
+               </titleStmt>
+               <extent>[2], 89, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Rob. Clavel and are to be sold by H. Brome ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Finance --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:101487:1" rendition="simple:additions"/>
+            <pb facs="tcp:101487:1"/>
+            <p>
+               <hi>The Evil Eye plucked out:</hi> OR A DISCOURSE <hi>PROVING</hi> That <hi>Church-Revenues</hi> can<g ref="char:EOLhyphen"/>not be <hi>Alienated</hi> by any <hi>Secular Perſons</hi> or <hi>Powers,</hi> without a <hi>manifeſt Violation</hi> of the known <hi>Fundamental Laws</hi> of this <hi>King<g ref="char:EOLhyphen"/>dom,</hi> and of <hi>Publick Juſtice,</hi> and <hi>Common-honeſty.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>MAT. XX. 15.</hi>
+               </bibl>
+               <p>Is thine Eye Evil, becauſe I am Good?</p>
+            </q>
+            <q>
+               <p>Fruſtra legis auxilium invocat, qui in legem committit.</p>
+               <bibl>Si Judicas, cognoſce.</bibl>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Rob. Clavel,</hi> and are to be ſold by <hi>H. Brome</hi> at the Gun near the <hi>Weſt-end</hi> of St. <hi>Pauls.</hi> 1679.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:101487:2"/>
+            <pb n="1" facs="tcp:101487:2" rendition="simple:additions"/>
+            <head>The Invaſion, or Aliena<g ref="char:EOLhyphen"/>tion, of Church-Re<g ref="char:EOLhyphen"/>venues by any Secular Perſon or Power, not only Sacriledge, but contrary to the Fun<g ref="char:EOLhyphen"/>damental Laws of the Land, and to the Principles of Juſtice and Common-honeſty.</head>
+            <p>SOme there are that have attempted to perſwade the World, that the De<g ref="char:EOLhyphen"/>vil is not ſo black as he is
+<pb n="2" facs="tcp:101487:3"/>painted; and that the name of Sacriledge, or its appropri<g ref="char:EOLhyphen"/>ation unto the invaſion of <hi>Church-Lands,</hi> is but a trick and device, a meer <hi>bugbear</hi> to affright conſcientious and fear<g ref="char:EOLhyphen"/>ful men from their laying hands on thoſe ſweet poſſeſſi<g ref="char:EOLhyphen"/>ons of others. To make this the more ſpecious, and withal, to unravel the force of all the Arguments that have been laid before the World to diſcover the iniquity of it, they have at length found this new ar<g ref="char:EOLhyphen"/>tifice, to heap together the va<g ref="char:EOLhyphen"/>rious ſenſes of this word <hi>Sa<g ref="char:EOLhyphen"/>criledge,</hi> ſome Proper, ſome Metaphorical; to ſhew that it had been uſed in relation to Perſons, Words, Places, and
+<pb n="3" facs="tcp:101487:3"/>Things: and thence they in<g ref="char:EOLhyphen"/>ferr, That if ſuch or ſuch a thing be Sacriledge, then this is not. After which way of diſcourſing, I believe any wickedneſs in the World might be freed from the imputation of guilt or en<g ref="char:EOLhyphen"/>ormity. I may as well argue, that becauſe <hi>Idolatry</hi> is called <hi>Adultery,</hi> and <hi>Inceſt Fornication,</hi> that there is no other <hi>Adulte<g ref="char:EOLhyphen"/>ry</hi> or <hi>Fornication;</hi> that becauſe <hi>Murder</hi> is uſed in many ſenſes beſides, therefore wilfully to kill a Man is no <hi>Murder:</hi> And ſo in every tranſgreſſion that can but have a <hi>Metaphori<g ref="char:EOLhyphen"/>cal ſenſe,</hi> or be referred to more objects than one. It might indeed have concluded thus, There are other ſorts of
+<pb n="4" facs="tcp:101487:4"/>Sacriledge, therefore this is not the only Sacriledge.</p>
+            <p>But now, becauſe men are ready to reject, or at leaſt not to have any great regard unto ſuch things, where variety of Opinions taketh off the edge of <hi>Arguments,</hi> and will never allow themſelves convinced, if there remain any Loophole through which they can peep; I ſhall endeavour to make good this <hi>Propoſition:</hi>
+            </p>
+            <p>
+               <hi>That Church-Lands and Revenues cannot be alienated from the Clergy, nor invaded by any Secular Perſons or Powers, without a wilful and determi<g ref="char:EOLhyphen"/>nate violation and breach of the Fundamental Laws of the
+<pb n="5" facs="tcp:101487:4"/>Land, and of the Principles of Juſtice and Common-ho<g ref="char:EOLhyphen"/>neſty.</hi>
+            </p>
+            <p>And truly, if this be made good, we ſhall not ſo much need to diſpute the ſignificati<g ref="char:EOLhyphen"/>on of <hi>Sacriledge:</hi> For in a <hi>Chriſtian State</hi> and <hi>Kingdom,</hi> none will believe <hi>That an un<g ref="char:EOLhyphen"/>godly invaſion of the Rights of others, can be countenanced or in<g ref="char:EOLhyphen"/>dured;</hi> eſpecially where the Law ſpeaks no leſs than Death to <hi>little Robbers</hi> on <hi>High-wayes,</hi> to <hi>Pirates on Seas,</hi> and makes <hi>Thirteen pence half penny</hi> by vi<g ref="char:EOLhyphen"/>olence or wrong taken, <hi>inexpi<g ref="char:EOLhyphen"/>able,</hi> unleſs it be by the <hi>bloud</hi> of the <hi>Criminal.</hi> Nay, any thing taken above the value of <hi>twelve
+<pb n="6" facs="tcp:101487:5"/>pence,</hi> without the conſent of the owner, is <hi>felony</hi> by the <hi>Law,<note place="margin">Stamford fal. 14. b.</note> Stat. Weſt.</hi> 1. <hi>cap</hi> 15. <hi>Furtum eſt contrectatio rei alienae pluris quam duodecim denariorum va<g ref="char:EOLhyphen"/>lentis, animo furandi, invito illo cujus res illa fuerit Theft is the ſeizing of the Goods of another above the value of one ſhilling, with an intent of ſtealing, and with<g ref="char:EOLhyphen"/>out the conſent of him to whom it belongeth.</hi> Nor do I know any other way to ſpecificate <hi>Theft,</hi> than the <hi>Property</hi> of the <hi>Poſ<g ref="char:EOLhyphen"/>ſeſſor</hi> before it be taken, and the <hi>ignorance</hi> or <hi>unwillingneſs</hi> of the <hi>Poſſeſſor</hi> to part with it. And therefore the Law determines, that <hi>the ſtealing of Wilde Beaſts, or Fiſhes out of a River, which have liberty
+<pb n="7" facs="tcp:101487:5"/>to change their places from one perſons Royalty to another, ſhall be neither Felony nor Larceny,</hi> becauſe they are <hi>nullius in bonis;</hi>
+               <note place="margin">Stamford fol. 25. b.</note> and ſo for <hi>TREASOUR TROVE, for Treaſure found,</hi> if it be taken, not <hi>Felony, Quia Do<g ref="char:EOLhyphen"/>minus rerum non apparet.</hi> But to take even theſe very things is yet unlawful, becauſe (to whomſoe<g ref="char:EOLhyphen"/>ver they belong, yet) they belong not to him that taketh them, having no right to them. How then and with what pretence can any greater and more va<g ref="char:EOLhyphen"/>luable rights be alienated from Poſſeſſors without their con<g ref="char:EOLhyphen"/>ſent? <hi>Juſtice it is, ſuum cui<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> reddere, to render every man that which is his;</hi> and <hi>it is common honeſty, to be content
+<pb n="8" facs="tcp:101487:6"/>with our own:</hi> ſo that, that which juſtifieth a <hi>Poſſeſsion</hi> is <hi>Property</hi> or <hi>Right,</hi> and that which gives boundaries and ſecurity to <hi>Property</hi> and <hi>Right,</hi> are the <hi>Laws.</hi> Not that there was any other <hi>Original of Pro<g ref="char:EOLhyphen"/>perty,</hi> but the <hi>Law of Nature;</hi> and ſo, even that <hi>Eighth Commande<g ref="char:EOLhyphen"/>ment</hi> inſinuates, for if there had not been property, <hi>to take from another could not be to ſteal;</hi> ſo that as <hi>thou ſhalt kill,</hi> doth de<g ref="char:EOLhyphen"/>fend the life of a man which he hath moſt right to; <hi>Thou ſhalt not commit Adultery,</hi> doth intimate the propriety that e<g ref="char:EOLhyphen"/>very man had in his own Wife; ſo, <hi>Thou ſhalt not ſteal,</hi> doth intimate the propriety that eve<g ref="char:EOLhyphen"/>ry man had in his own Goods
+<pb n="9" facs="tcp:101487:6"/>and Poſſeſſions: And thence ariſeth that <hi>Maxime</hi> of the <hi>Civil Law, Jure naturae aequum eſt,</hi>
+               <note place="margin">Pomponi<g ref="char:EOLhyphen"/>us, Lib. 9.</note> 
+               <hi>neminem cum alterias detrimento fieri locupletiorem.</hi> Hence it is alſo that Religion ever ſo vi<g ref="char:EOLhyphen"/>gorouſly aſſerted, and all hu<g ref="char:EOLhyphen"/>mane Laws ever defended Pro<g ref="char:EOLhyphen"/>perty. As early as <hi>Abel</hi> and <hi>Cain,</hi> we ſee a Property of Goods in the <hi>Flocks</hi> of <hi>one,</hi>
+               <note place="margin">Gen. 4.</note> and the <hi>Husbandry</hi> of the <hi>other;</hi> from which each man brought his <hi>Offering,</hi> which truly would have been but a <hi>dull preſent,</hi> if it had been out of the <hi>ſtock</hi> of a <hi>Community,</hi> where the right of all might have made the gift of any one of a ſmall account; and he that was moſt Religi<g ref="char:EOLhyphen"/>ous, would have but commen<g ref="char:EOLhyphen"/>ded
+<pb n="10" facs="tcp:101487:7"/>his ſervice to God, by <hi>that which coſt him little or nothing.</hi>
+               <note place="margin">1 Reg. 24.24.</note> Much leſs would the <hi>fatneſs</hi> of the <hi>Sacrifice</hi> been noted by <hi>God</hi> himſelf: <hi>Obtulit Hebel de pri<g ref="char:EOLhyphen"/>mogenitis gregis ſui, &amp; de adipe eorum.</hi> Which <hi>firſt-fruits</hi> or <hi>firſt-lings,</hi> doth ſignifie the <hi>prime</hi> or <hi>principal,</hi> expounded by the <hi>fat</hi> in that <hi>verſe;</hi> and by the <hi>Apoſtle</hi> accordingly, <hi>Hebrews</hi> 11.4. <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>praeſtantius &amp; majoris pretii ſacrificium; a better and more valuable Sa<g ref="char:EOLhyphen"/>crifice.</hi> And therefore on the conſideration of <hi>the Pe<g ref="char:EOLhyphen"/>tition of Right,</hi>
+               <note place="margin">An. 1640.</note> 
+               <hi>Anno</hi> 1640. the <hi>Convocation,</hi> holden at <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> agreed this, amongſt other <hi>Articles, Though Tribute, Cuſtoms, Aid, and Subſidies, and all other
+<pb n="11" facs="tcp:101487:7"/>manner of neceſſary ſupport and ſupply be reſpectively due to Kings from their Subjects, by the Law of God, Nature, and Nations, for the publick defence, care, and pro<g ref="char:EOLhyphen"/>tection of them; yet nevertheleſs Subjects have not only a Poſſeſ<g ref="char:EOLhyphen"/>ſion of, but a true and juſt Right, and Title, and Propriety to, and in all their Goods and Eſtates, and ought for to have. And theſe two are ſo far from croſsing one ano<g ref="char:EOLhyphen"/>ther, that they mutually go toge<g ref="char:EOLhyphen"/>ther, for the honourable and com<g ref="char:EOLhyphen"/>fortable ſupport of both: For as it is the duty of Subjects to ſupply their King, ſo it is the part of the Kingly Office to ſupport his Sub<g ref="char:EOLhyphen"/>jects in the propriety and freedom of their Eſtates.</hi> And truly all Magiſtrates are to guard this;
+<pb n="12" facs="tcp:101487:8"/>therefore it was the leſs wonder that that brave <hi>Roman</hi> Emperor ſhould make his whole Army ſtand ſtill to do right to a poor Widow. But to this chiefly are the <hi>Kings</hi> of this <hi>Iſland</hi> ſo much obliged, that it is the <hi>principle Article</hi> of the <hi>Coronation Oath,</hi> which the King ſweareth to maintain.</p>
+            <p>
+               <hi>Sir, Will you grant,</hi>
+               <note place="margin">Arch-Biſhop.</note> 
+               <hi>keep, and by your Oath confirm to your peo<g ref="char:EOLhyphen"/>ple of</hi> England, <hi>the Laws and Cuſtoms, to them granted by the Kings of</hi> England, <hi>your lawful and Religious Predeceſſors; and name<g ref="char:EOLhyphen"/>ly, the Laws, Cuſtoms, and Fran<g ref="char:EOLhyphen"/>chiſes, granted to the Clergy by the glorious King St.</hi> Edward <hi>your Predeceſſor, according to the
+<pb n="13" facs="tcp:101487:8"/>Laws of God, the true Profeſsion of the Goſpel eſtabliſhed in this Kingdom, agreeable to the Prero<g ref="char:EOLhyphen"/>gative of the Kings thereof, and the antient Cuſtoms of this Land?</hi>
+            </p>
+            <p>
+               <note place="margin">
+                  <hi>King.</hi> Ex Libro Regali.</note> 
+               <hi>I grant and promiſe to keep them. To which he afterward ſweareth.</hi>
+            </p>
+            <p>Now the <hi>Rights</hi> and <hi>Fran<g ref="char:EOLhyphen"/>chiſes</hi> granted by St <hi>Edward</hi> firſt, are contained chiefly in the <hi>Magna Charta,</hi> and in the <hi>Charta de Foreſta,</hi>
+               <note place="margin">9 <hi>Hen</hi> 3.</note> made 9 <hi>Hen.</hi> 3. of which this is the Hiſtory.</p>
+            <p>This <hi>poor Iſland</hi> torn to pieces by innumerable Factions, for the ſupport of the particular dominions of the <hi>Heptarchy,</hi> was at laſt gotten into the
+<pb n="14" facs="tcp:101487:9"/>hands of <hi>Canutus</hi> the <hi>Dane,</hi>
+               <note place="margin">An. Chriſti <hi>1018.</hi>
+               </note> yet ſo as by <hi>Conqueſt,</hi> where all un<g ref="char:EOLhyphen"/>der his ſubjection were at his mercy; for, wherever a King<g ref="char:EOLhyphen"/>dom is overrun and graſped by <hi>Conqueſt,</hi> the <hi>Kings will</hi> is the only <hi>Law. Quod principt placue<g ref="char:EOLhyphen"/>rit legit habet vigorem.</hi> The <hi>Kingdom</hi> in this condition de<g ref="char:EOLhyphen"/>ſcended to St. <hi>Edward,</hi>
+               <note place="margin">
+                  <hi>An.</hi> 1043.</note> called, for his excellent Holineſs, <hi>the Confeſſor;</hi> who conſidering the uncertain eſtate of a Governor, who hath nothing but the point of his Sword to guard him; conſidering that the ſureſt for<g ref="char:EOLhyphen"/>treſs was the <hi>love</hi> of the <hi>people,</hi> and withal, that nothing could gain ſo much upon their affe<g ref="char:EOLhyphen"/>ctions as <hi>Liberty</hi> and <hi>Emanci<g ref="char:EOLhyphen"/>pation;</hi> he took this courſe to
+<pb n="15" facs="tcp:101487:9"/>careſs them; to <hi>infranchiſe</hi> them, and <hi>remit</hi> the ſtanding <hi>Re<g ref="char:EOLhyphen"/>venue</hi> that had been formerly paid to the <hi>Crown,</hi> in acknow<g ref="char:EOLhyphen"/>ledgment of their <hi>Vaſſalage,</hi> cal<g ref="char:EOLhyphen"/>led <hi>Daneguilt;</hi> being 40000 <hi>pounds per annum.</hi> And that their <hi>Perſons,</hi> or <hi>Eſtates,</hi> might not be ſubject to the <hi>Will</hi> of any vi<g ref="char:EOLhyphen"/>olent perſon, but be protected by <hi>a Law,</hi> he digeſted a body of <hi>Laws</hi> out of the <hi>Cuſtoms</hi> and <hi>Ordinances</hi> of <hi>four Countries,</hi>
+               <note place="margin">
+                  <hi>An.</hi> 1044.</note> which was the beginning of our <hi>Common Laws.</hi> But when <hi>William Duke of Normandy</hi> came on this Kingdom,<note place="margin">
+                  <hi>An.</hi> 1066.</note> and made a new Conqueſt, his Sword cut all former <hi>Charters</hi> aſun<g ref="char:EOLhyphen"/>der. Thoſe that were then his <hi>Vaſſal,</hi> muſt ſubmit to
+<pb n="16" facs="tcp:101487:10"/>his pleaſure both for Lives and Eſtates. He that had gotten a <hi>great Kingdom</hi> with <hi>great dangers</hi> and <hi>difficulties,</hi> uſed the <hi>Engliſh</hi> with little Mercy. The whole Nation was in ſuch a condition, that they knew not what to call their own.<note place="margin">
+                  <hi>Stows</hi> Chron.</note> 
+               <hi>He depoſed the greateſt part of the</hi> Engliſh <hi>Nobility, and diſtributed their Earldoms, Baronies, Biſhop<g ref="char:EOLhyphen"/>ricks, and Dignities to his</hi> Normans: <hi>On the Commons he laid what Reſtraints, Bur<g ref="char:EOLhyphen"/>dens, and Bridles he pleaſed. For thirty Miles together in</hi> Hampſhire, <hi>without Mercy or Conſcience, he depopulated and laid waſt a great number of</hi> TOWNS, VILLAGES,
+<pb n="17" facs="tcp:101487:10"/>
+               <hi>and</hi> CHURCHES, <hi>with<g ref="char:EOLhyphen"/>out any ſatisfaction to the In<g ref="char:EOLhyphen"/>habitants, to make a Chace for Wilde Beaſts, which is now called the</hi> New Foreſt. <hi>He charged, at his pleaſure, what Souldiers he pleaſed on the Bi<g ref="char:EOLhyphen"/>ſhops, Earls, Barons, Shi<g ref="char:EOLhyphen"/>riffs,</hi> &amp;c. <hi>He cauſed the whole Kingdom to be Surveyed in a book, to underſtand what Land every Baron did poſſeſs, how many Knights-fees, how many Plough-Lands, how many Villains, how many Beaſts or Cattle every man poſſeſſed within this Kingdom,</hi>
+               <note place="margin">Such ſtrange doings continued all the time of <hi>Will. Rufus.</hi>
+               </note> 
+               <hi>from the greateſt to the leaſt; and</hi> (as the Hiſtorian affirms) <hi>the Land was full of miſchiefs that came of this doing.</hi>
+            </p>
+            <pb n="18" facs="tcp:101487:11"/>
+            <p>
+               <hi>Hen.</hi> 1. his <hi>Son,</hi> well weigh<g ref="char:EOLhyphen"/>ing the ſad inconveniences of this Tyranny, took other cour<g ref="char:EOLhyphen"/>ſes; <hi>He reſtored the ſtate of the Clergy;</hi>
+               <note place="margin">Ans Reg. <hi>1.</hi>
+               </note> 
+               <hi>he aſſwaged the grievous payments; reſtored again St.</hi> Edward's <hi>Laws; and at length, gave once more a manumiſsion and compleat emancipation to the Kingdom,</hi>
+               <note place="margin">
+                  <hi>Stows</hi> Chron.</note> 
+               <hi>and made us a free people: Afterwards confirmed and ratified by the</hi> Magna Charta, <hi>and</hi> Charta de Foreſta, <hi>in the</hi> 9 <hi>year of the Reign of</hi> Hen. 3. Which particularly, and in the firſt place, doth <hi>enfranchiſe</hi> the <hi>Church:</hi>
+               <note place="margin">9 <hi>Hen.</hi> 3.c.1.</note> 
+               <hi>We have granted to God, and by this our preſent Charter have confirmed for us, and for our Heirs for evermore, that the Church of</hi> England <hi>ſhall
+<pb n="19" facs="tcp:101487:11"/>be free, and ſhall have all her holy Rights and Liberties invi<g ref="char:EOLhyphen"/>olable.</hi> And truly, before the <hi>Promulgation</hi> of that <hi>Charter,</hi> all the Kingdom were Slaves, and at the will of the <hi>Sword,</hi> both for their <hi>Eſtates</hi> and <hi>Lives.</hi> Nay, even after this <hi>Charter,</hi> many great <hi>Pregogatives</hi> were claimed and held by the ſuc<g ref="char:EOLhyphen"/>ceeding Kings: <hi>As the beſtow<g ref="char:EOLhyphen"/>ing of the youngeſt Daughter of any deceaſed Baron in Marriage, as he pleaſed, with all her Fathers inheritance; although the Eldeſt were Married in their Fathers life time, and with his liking. Si aliquis Baro dicti Domini Regis, tenens de Rege, obiiſſet, &amp; non haberet haeredem niſi filias, &amp; primogenitae filiae ma<g ref="char:EOLhyphen"/>ritatae
+<pb n="20" facs="tcp:101487:12"/>ſunt in vita patris; Do<g ref="char:EOLhyphen"/>minus Rex daret poſtnatam filiam quae remanet in haereditate patris alicui militum ſuorum, cum tota haereditate patris ſui, de qua obi<g ref="char:EOLhyphen"/>iſſet ſeiſitus; ita quod aliae filiae nihil reciperent adverſus poſtna<g ref="char:EOLhyphen"/>tam filiam in vita ſua. Et omnes Reges habuerunt hanc dignitatem a conqueſtu.</hi> And ſome <hi>Pre<g ref="char:EOLhyphen"/>rogatives</hi> continue to the <hi>Crown</hi> at this day of a like na<g ref="char:EOLhyphen"/>ture, notwithſtanding the Pro<g ref="char:EOLhyphen"/>perty of the Subject by the <hi>great Charter:</hi> As, <hi>in defai<g ref="char:EOLhyphen"/>lance of Heirs, the King inhe<g ref="char:EOLhyphen"/>rits, ſo that the laſt Poſſeſſor, cannot diſpoſe or alienate it by Will. In</hi> Treaſure Trover, <hi>in whoſe Land ſoever found, it goes not to the Proprietor of the ſoil.
+<pb n="21" facs="tcp:101487:12"/>In the caſe of Mines diſcovered of perfect Metals, they go to the King in whoſe Land ſoever they are found.</hi>
+            </p>
+            <p>Now although this <hi>great Charter</hi> was ſo early granted, yet ſome ſucceeding Kings invading the <hi>Property</hi> of the <hi>Subjects,</hi> and Ruling accor<g ref="char:EOLhyphen"/>ding to their own Luſts, was the occaſion of thoſe fearful <hi>Civil Cammotions,</hi> cal<g ref="char:EOLhyphen"/>led the <hi>Barons Wars:</hi> Parti<g ref="char:EOLhyphen"/>cularly the inſolent and into<g ref="char:EOLhyphen"/>lerable Violence and Tyran<g ref="char:EOLhyphen"/>ny of King <hi>John;</hi>
+               <note place="margin">
+                  <hi>Stows</hi> Chron. in the Reign of K. <hi>John.</hi>
+               </note> 
+               <hi>For there were many Noble mens Wives, and Daughters, whom he op<g ref="char:EOLhyphen"/>preſſed and defiled; otherſome with great Exactions he brought into great Poverty; the Friends
+<pb n="22" facs="tcp:101487:13"/>and Parents of ſome he bani<g ref="char:EOLhyphen"/>ſhed and turned their Inheri<g ref="char:EOLhyphen"/>tances to his own uſe,</hi> Anno 12 13.<note place="margin">
+                  <hi>An.</hi> 12 13.</note> 
+               <hi>He diſinherited ſome Noble men without judgment of their Peers: He Robbed</hi> Bay<g ref="char:EOLhyphen"/>nards Caſtle <hi>in</hi> London: <hi>Poy<g ref="char:EOLhyphen"/>ſoned</hi> Maude the Fair, <hi>becauſe ſhe would not conſent to his Luſt: After he had ſpoiled Religious Perſons (when the foulneſs of thoſe Practices were like to undo him) he conſtrain<g ref="char:EOLhyphen"/>ed them to give him writings, wherein they acknowledged that they had willingly given him all that he had with Violence taken from them.</hi>
+            </p>
+            <p>This was the cauſe that the <hi>Barons</hi> ſo determinately
+<pb n="23" facs="tcp:101487:13"/>demanded the <hi>confirmation</hi> of the <hi>Magna Charta,</hi> and <hi>Char<g ref="char:EOLhyphen"/>ta de Foreſta,</hi> of that <hi>Hen.</hi> 3. <hi>his Son and Succeſſor,</hi> with<g ref="char:EOLhyphen"/>out which they looked on the whole Land to be per<g ref="char:EOLhyphen"/>fectly enſlaved. This he grant<g ref="char:EOLhyphen"/>ed; and it was with all poſ<g ref="char:EOLhyphen"/>ſible <hi>Faith</hi> and <hi>Aſſurance</hi> pub<g ref="char:EOLhyphen"/>liquely ratified. And this is the <hi>Fundamental Law of this Land,</hi> concerning the <hi>Right</hi> and <hi>Property</hi> of every Sub<g ref="char:EOLhyphen"/>iect, both <hi>Lay</hi> and <hi>Clergy:</hi> And if this be broken, there is no ſecurity of any Mans Poſſeſſions. Nay, even thoſe that hold by <hi>Eſcuage, Serjean<g ref="char:EOLhyphen"/>cy,</hi> or by any other <hi>ſervices,</hi> if they perform thoſe <hi>ſervices</hi> as they are <hi>due, no Power
+<pb n="24" facs="tcp:101487:14"/>without illegal and unconſciona<g ref="char:EOLhyphen"/>ble Violence and Oppreſsion, can Invade or Diſſeiſe them,</hi> with<g ref="char:EOLhyphen"/>out their conſent, this be<g ref="char:EOLhyphen"/>ing a common <hi>Principle</hi> and <hi>Maxime</hi> in all <hi>Laws, Quod noſtrum eſt, ſine facto no<g ref="char:EOLhyphen"/>ſtro transferii non poteſt: That which is mine, without my deed cannot be transferred to ano<g ref="char:EOLhyphen"/>ther.</hi>
+            </p>
+            <p>Thus far it is viſible and clear, that by apparent <hi>Right,</hi> and by the <hi>Fundamental Laws</hi> of the <hi>Land,</hi> that the <hi>Clergy</hi> ſtand on the ſame <hi>Baſis</hi> and ground, in their Eſtates, and Poſſeſſions, with the Laity. And leaſt it ſhould be doubt<g ref="char:EOLhyphen"/>ed, what Liberties are in<g ref="char:EOLhyphen"/>tended
+<pb n="25" facs="tcp:101487:14"/>to be granted to them, the Laws have (in many things) explained them. As, <hi>the right of Advowſons and Pre<g ref="char:EOLhyphen"/>ſentations, that belong to the Church to be kept inviolable,</hi> 25 Edw. 3.3.7.<note place="margin">25 <hi>Edw.</hi> 3.3.7.</note> 
+               <hi>The right of their Foreſts, and Chaces, and Parks to the Archbiſhops and Biſhops. Charta de Foreſta,</hi>
+               <note place="margin">Charta de Foreſta, c. <hi>4. 9</hi> Hen. <hi>3.</hi> Mag. Chart. c <hi>37.</hi>
+               </note> 
+               <hi>cap.</hi> 4. <hi>The Liberties of all their ether Rights and Poſſeſsions: Magna Charta, cap.</hi> 37. All that even before the Con<g ref="char:EOLhyphen"/>queſts of <hi>Danes</hi> or <hi>Normans</hi> had belonged unto them, ſuch as <hi>an exemption from Murage, Pontage;</hi>
+               <note place="margin">
+                  <hi>Cook. Inſt.</hi> vol. 2. fol. 1, 2. <hi>Fitz-Herb. Nat. Brev.</hi> fol. 175.</note> 
+               <hi>Cook Inſtitut. vol.</hi> 2. <hi>fol.</hi> 1, 2. <hi>An exemption from Secular Offices. Si home qui tient certeine terres ou tenements
+<pb n="26" facs="tcp:101487:15"/>par reaſon de ſe terres dever eſtre elect Baillie, ou Reve, ou en auter tiel office pour ſe terres, ore ſi tiel home ſoit fait Clerke, ou deins ſacres Orders, donc il ne devan eſtre elect pour ſe ter<g ref="char:EOLhyphen"/>res en tiel office.</hi> And if he be returned in ſuch an Office, by the <hi>Kings Writ</hi> he ſhall be diſcharged; the words of which Writ are theſe, <hi>Cum ſecundum leges &amp; conſuetudines Regni noſtri Angliae infra ſa<g ref="char:EOLhyphen"/>cros ordines conſtituti ad offici<g ref="char:EOLhyphen"/>um Ballivi, &amp;c. eligi non de<g ref="char:EOLhyphen"/>bent.</hi> And again, <hi>Acceperi<g ref="char:EOLhyphen"/>mus quod magiſtrum C. Offi<g ref="char:EOLhyphen"/>cium Ballivi, &amp;c. manerii de. L. aſſumere compellere nitimini in ipſius grave damnum, &amp; con<g ref="char:EOLhyphen"/>tra legem &amp; conſuetudines ſupra<g ref="char:EOLhyphen"/>dictas.
+<pb n="27" facs="tcp:101487:15"/>Precipimus quod diſtri<g ref="char:EOLhyphen"/>ctioni &amp; compulſioni, &amp;c. om<g ref="char:EOLhyphen"/>nino ſuperſedeatis, &amp;c. An ex<g ref="char:EOLhyphen"/>emption from diſtreſſes on Glebes of Eccleſiaſtical Livings:</hi> A <hi>Writ</hi> being iſſuable,<note place="margin">
+                  <hi>Id.</hi> fol. 174.</note> 
+               <hi>Quod di<g ref="char:EOLhyphen"/>ſtreſſe ne ſoit pris en le Glebes de Parſons, ne Vicars, ne auter Miniſter found ſur le Statute, de Articulis cleri: cap.</hi> 6. the words of which <hi>Writ</hi> are theſe, <hi>Rex Vicicomiti ſalutem, &amp;c.</hi>
+               <note place="margin">9 <hi>Edw.</hi> 2.</note> 
+               <hi>Cum nuper ingreſſus fuiſti in terris &amp; tenementis Rectoriae de</hi> C. <hi>&amp; Dominum. S. graviter di<g ref="char:EOLhyphen"/>ſtrinxiſti, &amp; indies diſtringere non deſiſtis in ipſius prejudicium &amp; libertatis Eccleſiaſticae mani<g ref="char:EOLhyphen"/>feſtam laeſionem, &amp; contra for<g ref="char:EOLhyphen"/>mam Articulorum de Clero, &amp;c. Nos libertates Eccleſiaſticas illae<g ref="char:EOLhyphen"/>ſas
+<pb n="28" facs="tcp:101487:16"/>obſervari volentes, precipi<g ref="char:EOLhyphen"/>mus, &amp;c. An exemption of the Clergy from paying Subſidies a<g ref="char:EOLhyphen"/>mong the Laity, or by their taxing:</hi> In which caſe a <hi>Writ</hi> alſo lyeth,<note place="margin">
+                  <hi>Id.</hi> fol. 176.</note> 
+               <hi>Rex taxatoribus X. &amp; XV. per communitatem Regni noſtri Angliae, nobis ultimo con<g ref="char:EOLhyphen"/>ceſſarum, &amp;c. Vobis mandamus quod S. Prebenda de</hi> B. <hi>in pro<g ref="char:EOLhyphen"/>priis bonis ſuis quae inter Spiri<g ref="char:EOLhyphen"/>tualia ad decimam taxantur &amp; de quibus dat nobis decimam: ratione X. &amp; XV. nobis per Laicos conceſſarum non moleſtetis ſive in aliquo gravetis, &amp;c.</hi> To exempt them from<note n="*" place="margin">Nor did our Law allow more in this than the <hi>Pagan</hi> Prince <hi>Artaxerxes</hi> allowed to the <hi>Jewiſh</hi> Prieſts and Le<g ref="char:EOLhyphen"/>vites, <hi>Ezra</hi> 7.24. who com<g ref="char:EOLhyphen"/>manded that they ſhould not impoſe Tolls and Cuſtoms on them.</note> 
+               <hi>Paſſage, Caſtle<g ref="char:EOLhyphen"/>guard, Murage, Pon<g ref="char:EOLhyphen"/>tage,</hi> &amp;c. A <hi>Writ</hi> alſo lyeth, <hi>That
+<pb n="29" facs="tcp:101487:16"/>no Prohibition ſhall lie againſt the Proceedings of Eccleſiaſtical Courts in caſe of Tythes, Mortu<g ref="char:EOLhyphen"/>aries, Oblations, or Commutation of Penance on the inſtance of an Offender:</hi> Art. Cleri. 9 Edw. 6.2.1 2.3. <hi>That the Kings Prohibition ſhall not lie in Ex<g ref="char:EOLhyphen"/>commungement, unleſs where the Kings Liberty is prejudiced:</hi> Art. Cleri. cap. 12.<note place="margin">9 <hi>Ed.</hi> 2.12.</note> 
+               <hi>And ſeveral other the like Liberties and Im<g ref="char:EOLhyphen"/>munities.</hi>
+            </p>
+            <p>Nor do the too frequent and impudent Rapines of vi<g ref="char:EOLhyphen"/>olent and tyrannical Powers, make the depilation of the <hi>Church,</hi> or the plundering of the <hi>Clergy</hi> become ever the leſs <hi>Illegal</hi> or <hi>wicked,</hi>
+               <note place="margin">A facto ad jus. non va<g ref="char:EOLhyphen"/>let conſe<g ref="char:EOLhyphen"/>quentia.</note> any more than frequent <hi>Rapes</hi> and <hi>Adulteries,</hi>
+               <pb n="30" facs="tcp:101487:17"/>or numerous <hi>Piracies</hi> and <hi>Rob<g ref="char:EOLhyphen"/>beries</hi> can change the nature of thoſe <hi>facts,</hi> and make them ever the leſs <hi>Villanies.</hi> So that when on one ſide, we ſhall read in our <hi>Chronicles,</hi>
+               <note place="margin">Matthew Paris.</note> the <hi>Symo<g ref="char:EOLhyphen"/>ny</hi> of <hi>William Rufus;</hi> or on the other ſide,<note place="margin">Will. Mal<g ref="char:EOLhyphen"/>mesbury.</note> his <hi>encouragement of the</hi> Jews <hi>to fight againſt the</hi> Chriſtians, <hi>promiſing that if they overcame, he would become a Jew.</hi> We judge his Juſtice and Religion to be much of a ſort, in one and the other.<note place="margin">
+                  <hi>Stows</hi> Chron.</note> 
+               <hi>For King</hi> John <hi>to ſpoil and plunder the Clergy; or to diſſeiſe his Barons, to condemn them without judg<g ref="char:EOLhyphen"/>ment of their Peers, and convert their Eſtates to his own uſe, are practices a like juſtifiable by the Fundamental Laws of this Land.</hi>
+               <pb n="31" facs="tcp:101487:17"/>And who would not have ta<g ref="char:EOLhyphen"/>ken it to have been a compleat <hi>character,</hi> that that inſatiable gulph of <hi>Luſt</hi> and <hi>Avarice, Hen.</hi> 8. gave of himſelf, that <hi>he never ſpared Man in his Rage, nor Woman in his Luſt;</hi> if he had added but this one thing more, <hi>that he never pittied the helpleſs in his greedineſs?</hi> But thoſe practices againſt his own Ser<g ref="char:EOLhyphen"/>vants, and theſe againſt <hi>Gods Church,</hi> have a like countenance by the <hi>Fundamental Laws</hi> of this Kingdom, and more became a <hi>Robber</hi> than a <hi>Prince;</hi> for <hi>Sub<g ref="char:EOLhyphen"/>ditos ſpoliare &amp; opprimere, non regnum eſt ſed latrocinium: To ſpoil and oppreſs Subjects, was more like a Robber than a King.</hi> Nay, it is not to be queſtioned,
+<pb n="32" facs="tcp:101487:18"/>that this deſign of his, for the <hi>ſpoil of the Church,</hi> had went on, whether the <hi>Parliament</hi> had en<g ref="char:EOLhyphen"/>acted it or no; for <hi>in the year of our Lord</hi> 1532.<note place="margin">
+                  <hi>Hen.</hi> 8.24.</note> 
+               <hi>&amp; Anno Regni</hi> 24. <hi>He ſuppreſſed the Col<g ref="char:EOLhyphen"/>legiate body of the Holy Trinity in</hi> London, <hi>and gave their Plate and Lands to his new Favourite and Keeper Sir</hi> Thomas Aud<g ref="char:EOLhyphen"/>ley; and did not tarry for the <hi>Act of Parliament,</hi> which came not forth till <hi>the year of our Lord</hi> 1535.<note place="margin">27 <hi>H n</hi> 8.</note> 
+               <hi>&amp; Anno Regni</hi> 27. Nor durſt the <hi>Parliament</hi> do leſs than humour him, for fear of their <hi>heads;</hi> he had ſo awed them, in not ſparing the <hi>bloud</hi> of their <hi>Predeceſſors.</hi> And thoſe who had the greateſt integrity and courage, he quickly cut
+<pb n="33" facs="tcp:101487:18"/>off out of the way of his <hi>de<g ref="char:EOLhyphen"/>ſigns.</hi> But do you judge now, would it not have been thought a bleſſed and a juſt act of <hi>him<g ref="char:EOLhyphen"/>ſelf</hi> and the <hi>Commons,</hi> had they thus cut off the <hi>Revenues</hi> of the <hi>Barons?</hi> or if himſelf and the <hi>Lords</hi> had thus deveſted the <hi>Commons</hi> of their Eſtates? or if <hi>himſelf</hi> and the <hi>Clergy</hi> in their <hi>Convocation</hi> had thus enacted the diſſeizing of the <hi>Laity?</hi> But good <hi>God!</hi> What will not a powerful <hi>Leacher</hi> do, when Revenge and Gain ſpur him on one ſide, and he is ſure to meet with nothing but helpleſs <hi>tears</hi> and <hi>words</hi> to oppoſe him? It is certain, there hath not been in the whole World ſo great a diſhonour,
+<pb n="34" facs="tcp:101487:19"/>and ſo vile a ſcandal to the <hi>Proteſtant Religion,</hi> as the <hi>im<g ref="char:EOLhyphen"/>pious practices</hi> of this <hi>diſſolute Prince.</hi> And yet after all this, that he might gather together the <hi>fragments</hi> of this <hi>ſhipwrack't honour,</hi> which he had ſo raſh<g ref="char:EOLhyphen"/>ly <hi>proſtituted</hi> in the ſight of all <hi>Chriſtendome,</hi> he began at length to ſtick ſome little <hi>Fea<g ref="char:EOLhyphen"/>thers</hi> of the <hi>Geeſe</hi> that he had plucked, and made ſome ſmall ſhew of Love to the <hi>Church</hi> whom he had Raviſhed, by raiſing, towards his latter end, here and there a <hi>little Biſhop<g ref="char:EOLhyphen"/>rick,</hi> which by their <hi>indowments</hi> may be diſcerned to have pro<g ref="char:EOLhyphen"/>ceeded from a very <hi>moderate zeal,</hi> and by the ſlenderneſs of their <hi>Revenues,</hi> in reſpect of the
+<pb n="35" facs="tcp:101487:19"/>reſt of the <hi>Kingdom;</hi> as <hi>the Biſhoprick of</hi> Oxon.<note place="margin">31.32.33. <hi>Hen.</hi> 8.</note> 
+               <hi>valued in the Kings books at</hi> 354 <hi>l.</hi> 16 <hi>s.</hi> 4 <hi>d.</hi>
+               <hi>ob. founded</hi> Hen. 8.33. Peterborough <hi>valued</hi> per an<g ref="char:EOLhyphen"/>num <hi>in the Kings books</hi> 414 <hi>l.</hi> 19 <hi>s.</hi> 11 <hi>d. founded</hi> Hen. 8.31. Gloceſter <hi>valued</hi> per annum 315 <hi>l.</hi> 17 <hi>s.</hi> 8 <hi>d.</hi> Hen. 8. 31. <hi>The Biſhoprick of</hi> Briſtol <hi>va<g ref="char:EOLhyphen"/>lued</hi> per annum 338 <hi>l.</hi> 8 <hi>s.</hi> 4 <hi>l.</hi>
+               <hi>Hen.</hi> 8.31. <hi>c.</hi> 9. And although he fingered the <hi>Revenue of the Biſhoprick of</hi> Norwich, yet he ſubſtituted other Lands, and, to excuſe the <hi>exchange,</hi> alledged that they were of more value than thoſe he took, as is expreſſed in the <hi>Statute, Hen.</hi> 8.32.47.<note place="margin">32 <hi>Hen.</hi> 8.47.</note> This was a poor pittance in proportion to
+<pb n="36" facs="tcp:101487:20"/>that he took, and yet was engaged by his <hi>Promiſe</hi> and <hi>Princely Word, to advance the glory of God;</hi> without which, the Commons (notwithſtand<g ref="char:EOLhyphen"/>ing that daſtardly fear they were poſſeſſed with) would never have paſt that <hi>Act for the Diſſolution,</hi> 27 <hi>Hen.</hi> 8. So that we have a here fair example, how much ſuch perſons deſign <hi>the glory of God, or any counte<g ref="char:EOLhyphen"/>nance to Religion.</hi>
+            </p>
+            <p>Nor doth that argument, which ſome have brought from any <hi>emergent Neceſsity</hi> of Affairs for any <hi>robbery</hi> or <hi>depila<g ref="char:EOLhyphen"/>tion of the Church,</hi> ſignifie any more to juſtifie ſuch a pro<g ref="char:EOLhyphen"/>ceeding, than the former, brought from a number of
+<pb n="37" facs="tcp:101487:20"/>impious facts. For firſt, <hi>Evil is not to be done that Good may come of it;</hi> and ſuch it muſt be confeſſed to be, to take away mens <hi>Properties,</hi> and <hi>to ſpoil the Innocent.</hi> Nor is every thing that is called <hi>a neceſsity,</hi> ſuch in<g ref="char:EOLhyphen"/>deed; or if it were,<note place="margin">Juſtin. Ia<g ref="char:EOLhyphen"/>ſtitut tit. digeſt. <hi>162.</hi>
+               </note> 
+               <hi>Quae propter neceſsitatem recepta ſunt, non de<g ref="char:EOLhyphen"/>bent in argumentum trahi.</hi> Nor is it equal for any ſort of men to ſpoil and diſſeiſe another ſort on the pretence of <hi>pure neceſsi<g ref="char:EOLhyphen"/>ty,</hi> when it is indeed to the ſe<g ref="char:EOLhyphen"/>curity and eaſe of themſelves; for this were <hi>to make thoſe that are Parties Judges,</hi> which no <hi>Law</hi> ever allowed, nor them<g ref="char:EOLhyphen"/>ſelves would be content to ſuf<g ref="char:EOLhyphen"/>fer: Or ſuppoſing that <hi>neceſsity</hi> ſhould <hi>ſuperſede</hi> all <hi>right;</hi> ſuppo<g ref="char:EOLhyphen"/>ſing,
+<pb n="38" facs="tcp:101487:21"/>it ſhould be lawful,<note place="margin">
+                  <hi>Caiaphas Maxime,</hi> Joh. 11.50.</note> 
+               <hi>to kill one Man to ſave a Nation,</hi> or to undo one ſort of men, to ſave the reſt; and withal, that ſuch a <hi>neceſsity</hi> ſhould fall on this <hi>Kingdom,</hi> I would fain know by what Law of God or Man, the <hi>Clergy</hi> only ſhould be the <hi>devo<g ref="char:EOLhyphen"/>voted people,</hi> and that <hi>their main<g ref="char:EOLhyphen"/>tenance</hi> ſhould be ſacrificed more than the Eſtates of others? <hi>Joſephs example in Egypt</hi> will hardly allow this, who for the preſervation of the Lives of the <hi>Egyptians,</hi> when he took the Eſtates of other men to the Kings advantage, <hi>Medled not with the Lands of the Prieſts,</hi>
+               <note place="margin">Gen. 47.26.</note> 
+               <hi>but left their Revenue as free as Pha<g ref="char:EOLhyphen"/>raohs,</hi> much leſs did he ſell it to maintain or eaſe others. If ne<g ref="char:EOLhyphen"/>ceſſity
+<pb n="39" facs="tcp:101487:21"/>muſt fall, let it fall on all men alike; <hi>Where all lift together the greateſt load will become port<g ref="char:EOLhyphen"/>able. And truly,</hi>
+               <note place="margin">Maxime of the Com<g ref="char:EOLhyphen"/>mon Law.</note> 
+               <hi>In pari neceſsitate potior eſt conditio poſsidentis: In like neceſſity the condition of the poſſeſſor is moſt advantageous.</hi>
+            </p>
+            <p>The <hi>Law</hi> tells us,<note place="margin">
+                  <hi>Bracton</hi> Lib. 2. fol. 12.</note> that <hi>the Church is in the condition of ami<g ref="char:EOLhyphen"/>nor: Eccleſia fungitur vice mi<g ref="char:EOLhyphen"/>noris.</hi> And it is a ſtrange piece of degenerous inhumanity <hi>to ſpoil a minor.</hi>
+               <note place="margin">Juſtin Ia<g ref="char:EOLhyphen"/>ſtitut tit. digeſt. <hi>110. §. 2.</hi>
+               </note> 
+               <hi>Pupillus pati poſſe non in<g ref="char:EOLhyphen"/>telligitur. That Pupils ſhould be expoſed no Government ever al<g ref="char:EOLhyphen"/>lowed or indured.</hi> 'Tis true, there are ſome cauſes for which <hi>Cler<g ref="char:EOLhyphen"/>gy-men,</hi> as well as others, may be diſſeiſed, as in caſe of <hi>Treaſon,</hi> and the like.<note place="margin">Mag. Char. cap. <hi>29.</hi>
+               </note> But no man muſt be <hi>diſſeiſed</hi> before he is <hi>convict:</hi>
+               <pb n="40" facs="tcp:101487:22"/>Nor, when he is <hi>convict,</hi> can he looſe more then he had, which in <hi>Eccleſiaſtical preferments</hi> is on<g ref="char:EOLhyphen"/>ly for the life of the <hi>Clerk;</hi> after his death, they do <hi>cedere ſucceſ<g ref="char:EOLhyphen"/>ſori, go to the ſucceſſor.</hi> And in the <hi>vacancy no waſt is ſuffered by the Law,</hi>
+               <note place="margin">14 <hi>Edw.</hi> 3. <hi>pro Clero, cap.</hi> 4, 5.</note> 
+               <hi>in Manors, Parks, Ponds, or Warrens,</hi> &amp;c. <hi>no fines are to be levied of Tenants, nor any under woods to be felled, nor any other thing done which may tend to the diſheriſon of the Church:</hi> 14 <hi>Edw.</hi> 3. <hi>c.</hi> 4. <hi>&amp;</hi> 5. <hi>pro clero.</hi> Nor will any conſent of the <hi>poſſeſſors,</hi> if <hi>they</hi> ſhould be ſo <hi>perfidious,</hi> make an alienation ever the more <hi>legal;</hi> for though they are <hi>uſu<g ref="char:EOLhyphen"/>fructuaries,</hi> their intereſts extend but to their own times.<note place="margin">
+                  <hi>Ulpian.</hi> lib. 46.</note> 
+               <hi>Nemo plus juris ad alium transferre po<g ref="char:EOLhyphen"/>teſt
+<pb n="41" facs="tcp:101487:22"/>quam ipſe haberet: No man can transfer to others a greater right than himſelf had.</hi> And if ſuch Eſtates ſhould ever diſ<g ref="char:EOLhyphen"/>continue from that uſe and end, whereunto (by the <hi>grants</hi> and <hi>wills</hi> of the <hi>Donors</hi>) they were orignally deſigned, they ought both in <hi>Equity</hi> and <hi>Law,</hi> to re<g ref="char:EOLhyphen"/>turn to them again, or <hi>to their Heirs.</hi> This is certain, that <hi>it is the moſt reaſonable thing in the World, that every man ſhould do what he thinks fit with his own;</hi> and this is as certain, <hi>that to pervert or fruſtrate the Will of the dead, is moſt inhumane. Teſtamen<g ref="char:EOLhyphen"/>tum authenticum nullus abrogat aut aliquid ei ſuperaddit,</hi> Gal. 3.15. <hi>A Teſtament though it be but a mans, yet no man diſanulleth, or
+<pb n="42" facs="tcp:101487:23"/>addeth thereto.</hi> And truly, if the deſigns of thoſe <hi>Donors</hi> ſhould ever be <hi>fruſtrated,</hi> why ſhould the Eſtates go any other way than to their Poſterity? For this is moſt ſure, That if they could have but ſuſpected, that theſe Eſtates ſhould ever be ta<g ref="char:EOLhyphen"/>ken from thoſe <hi>bodies</hi> to whom they granted them, they would never have granted them from their <hi>own families.</hi> And there<g ref="char:EOLhyphen"/>fore that <hi>Oracle of the Law, my Lord Cook,</hi>
+               <note place="margin">
+                  <hi>Cook</hi> on <hi>Littleton,</hi> Lib. 1. fol. 13.</note> plainly affirms, <hi>That if Lands be given to a body Poli<g ref="char:EOLhyphen"/>tique, ſuch as a Mayor and Com<g ref="char:EOLhyphen"/>munalty, or to a Dean and Chapter; if the body Politique be diſſolved, the Donor, or Grantor, and his Heirs ſhall reenter.</hi> And this <hi>Law</hi> is ſo far from being New,
+<pb n="43" facs="tcp:101487:23"/>or the judgment of a <hi>private perſon,</hi> that it was urged by <hi>Edw.</hi> 3. <hi>in the like caſe,</hi> againſt the <hi>Pope,</hi> in a Letter written to him. For whereas the <hi>Pope,</hi> to make the dependence of all <hi>Clergy-men</hi> more abſolutely on himſelf, had uſurped a Power of diſpo<g ref="char:EOLhyphen"/>ſing of <hi>Biſhopricks,</hi> and other <hi>Eccleſiaſtical Dignities,</hi> without <hi>Elections</hi> of the <hi>Chapters:</hi> The <hi>King</hi> in the behalf of the <hi>Crown,</hi> lets him know,<note place="margin">This Ler<g ref="char:EOLhyphen"/>ter is to be ſeen in <hi>Tho. Wal<g ref="char:EOLhyphen"/>ſingham.</hi>
+               </note> 
+               <hi>That foraſmuch as at the requeſt of divers Popes, his Progenitors had gratiouſly given the Authority of Elections unto the particular Chapters, that if he would not ſuffer them to uſe that freedom and Authority that was ſo given them, that right devolved again on the firſt Grantor, which
+<pb n="44" facs="tcp:101487:24"/>was the King. The equity of this Law was ſo obvious, that the Pope a long time after never interpoſed.</hi> For it is ſure, that no diſtance of time can defeat ſucceeding Heirs of their right. <hi>Qui per Suc<g ref="char:EOLhyphen"/>ceſsionem, quamvis longiſſimam, defuncto haeredes conſtiterunt, non minùs haeredes intelliguntur, quàm qui haeredes principaliter exiſtunt.</hi> This therefore is an implied and tacite Condition of all <hi>Grantors</hi> (but withal a moſt equitable Condition) that where they cannot have their <hi>Ends,</hi> which are ſo <hi>honourable</hi> and <hi>pious,</hi> their <hi>Grants</hi> ſhould return unto <hi>themſelves,</hi> or (which is<note n="*" place="margin">
+                  <hi>Viventis enim non eſt haeres.</hi> A Max me of the Common Law. <hi>Cooks Inſtit.</hi>
+               </note> equivalent) to their <hi>Heirs;</hi> which no Succeſſi<g ref="char:EOLhyphen"/>on can ſpoil him off.</p>
+            <pb n="45" facs="tcp:101487:24"/>
+            <p>But methinks there is <hi>one thing</hi> more that puts the <hi>Right</hi> and <hi>Intereſt</hi> of the <hi>Church,</hi> in their Lands and revennues, out of all diſpute in the World; and makes them appear by <hi>Law</hi> to be ſtedfaſt and <hi>unalienable</hi> for ever; and that is the <hi>Terms</hi> that the <hi>Laws</hi> beſtow on <hi>Lands</hi> that are <hi>dedicated</hi> to <hi>Religious u<g ref="char:EOLhyphen"/>ſes;</hi> viz. <hi>that they are in Mort<g ref="char:EOLhyphen"/>main,</hi> which is thus defined. <hi>Mortmaine eſt lou terres dones a Deane &amp; Chapiter, ou a un auter Company que ſont corporate per le grant du Roy, donque ceſt terre eſt devenu en mortmaine. Mortmain is where Lands are given to a
+<pb n="46" facs="tcp:101487:25"/>Dean and Chapter, or to any Cor<g ref="char:EOLhyphen"/>poration which are incorporate by the Kings grant, then this Land is come into Mortmain;</hi> that is to ſay, <hi>into a dead hand.</hi> So that what is confirmed by <hi>Law</hi> ſo given; to take it again, is juſt ſo much honeſty, as it is, <hi>to rob the dead.</hi>
+               <note place="margin">Magna Charta <hi>cap.</hi> 36. 7 Ed. 1. W. 2. <hi>c.</hi> 31. 13 Ed. 1.34. Ed. 1.15. Ric 2. <hi>c.</hi> 5. 23 Hen. 8. <hi>c.</hi> 10.</note> Now although the <hi>Statutes of Mortmain</hi> do deter<g ref="char:EOLhyphen"/>mine that all things for the fu<g ref="char:EOLhyphen"/>ture given in <hi>Mortmain</hi> without ſuch a <hi>legall Licenſe</hi> and <hi>allow<g ref="char:EOLhyphen"/>ance</hi> as they appoint, ſhall be <hi>void,</hi> and return to the <hi>Lords</hi> of the <hi>Fee,</hi> and for their neglect to the <hi>King;</hi> yet doth this (be<g ref="char:EOLhyphen"/>yond all queſtion) ratify all
+<pb n="47" facs="tcp:101487:25"/>ſuch <hi>Eſtates</hi> given <hi>before</hi> thoſe <hi>Statutes,</hi> or at any time ſince thoſe <hi>Statutes</hi> given with ſuch <hi>Licenſe;</hi> for the obtaining of which <hi>Licenſe</hi> this is the <hi>proceſs,</hi> that a <hi>Writ</hi> be iſſued out of the <hi>Chancery, ad quod damnum,</hi> that is; <hi>whether ſuch a Donation be any way detrimental to the King or o<g ref="char:EOLhyphen"/>thers;</hi> and if the <hi>Inqueſt</hi> return<g ref="char:EOLhyphen"/>eth that there is no <hi>wrong</hi> to the <hi>King</hi> nor <hi>others;</hi> the <hi>King grants</hi> his <hi>Licenſe,</hi> which then makes them firm and unalterable (where, by the way, we may take notice how ſtrictly our <hi>Laws</hi> protect mens <hi>properties;</hi> that no man ſhall be wronged,
+<pb n="48" facs="tcp:101487:26"/>although it be for the ſake of <hi>God;</hi> much leſs, that <hi>God</hi> and his <hi>Servants</hi> ſhall have their <hi>pro<g ref="char:EOLhyphen"/>perties alienated</hi> to others (with<g ref="char:EOLhyphen"/>out their conſent) the words of the <hi>Writ</hi> are theſe.<note place="margin">Fitz-Her<g ref="char:EOLhyphen"/>bert Nat. Brevium Briefe ad quod domnum.</note> 
+               <hi>Rex dilecto ſibi</hi> J. <hi>de</hi> R. <hi>Eſcheatori ſuo in co<g ref="char:EOLhyphen"/>mitatu</hi> L. <hi>ſalutem, Praecipimus ti<g ref="char:EOLhyphen"/>bi quod per Sacramentum probo<g ref="char:EOLhyphen"/>rum &amp; legalium hominum, de bali<g ref="char:EOLhyphen"/>va tua, per quos rei veritatem me<g ref="char:EOLhyphen"/>lius ſciri poterit, diligenter inqui<g ref="char:EOLhyphen"/>ras, ſi ſit ad quod damnum, vel pre<g ref="char:EOLhyphen"/>judicium, noſtrum, vel aliorum, ſi concedamus</hi> B. <hi>quod ipſe unum me<g ref="char:EOLhyphen"/>ſuagium, centum acras terrae, Deca<g ref="char:EOLhyphen"/>no &amp; capitulo de</hi> M. <hi>&amp; eorum ſuc<g ref="char:EOLhyphen"/>ceſſoribus, dare poſſit, &amp; aſſignare.</hi>
+               <pb n="49" facs="tcp:101487:26"/>What then can be more clear than this, that if <hi>Lands</hi> given in <hi>Mortmain</hi> without the <hi>Kings Licenſe,</hi> ſince thoſe <hi>Statutes,</hi> ſhall be <hi>forfeite;</hi> then thoſe Lands given <hi>before</hi> thoſe <hi>Statutes;</hi> or <hi>ſince</hi> thoſe <hi>Statutes</hi> with ſuch <hi>Li<g ref="char:EOLhyphen"/>cenſe,</hi> are <hi>confirmed;</hi> this being a moſt confeſſed <hi>axiom</hi> amongſt all,<note place="margin">Cooke <hi>In<g ref="char:EOLhyphen"/>ſtitut. lib.</hi> 1. <hi>cap.</hi> 1. <hi>Sect.</hi> 3.</note> 
+               <hi>Exceptionem confirmare regu<g ref="char:EOLhyphen"/>lam. That an exception confirmes the rule.</hi> To be plain, the <hi>in<g ref="char:EOLhyphen"/>terest</hi> of the <hi>Church</hi> is ſo ſtedfaſt<g ref="char:EOLhyphen"/>ly <hi>founded</hi> by the <hi>Laws</hi> of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> that thoſe that have been any time the <hi>Authors</hi> of <hi>Sacrile<g ref="char:EOLhyphen"/>gious-deſignes</hi> againſt the <hi>Church,</hi> have thought it their moſt <hi>ſuc<g ref="char:EOLhyphen"/>ceſsfull
+<pb n="50" facs="tcp:101487:27"/>method,</hi> to bring ſome <hi>ſlurres</hi> and <hi>contempt,</hi> on thoſe that are the <hi>diſpenſers</hi> of <hi>publique Juſtice,</hi> and whoſe continuall ſtudies and buſineſs the <hi>Laws</hi> are; and therefore (beſure, as there ſhall be occaſion) they will ſpeak <hi>meanly</hi> and <hi>unworthily</hi> of them, that they may be thought to be perſons of <hi>little uſe,</hi> or <hi>illends.</hi> Nay, ſometimes have the <hi>profeſſors</hi> of the <hi>Laws,</hi> (when there have been aimes at the ſpoil of the <hi>Church</hi>) been <hi>prohibited</hi> the <hi>Parliament</hi> (that they might do things without conſideration of right or wrong, of what is legal or illegal) and
+<pb n="51" facs="tcp:101487:27"/>by <hi>expreſs order,</hi> been <hi>rendred uncapable</hi> of being <hi>elected.</hi> As <hi>in</hi> 6 <hi>Hen.</hi> 4.<note place="margin">Stow Chron. Anno 1402.</note> 
+               <hi>The Parliament at Coventry was held without Law<g ref="char:EOLhyphen"/>yers, being by the Writ forbidden to be choſen; the words of the Writ are theſe.</hi> —<hi>Nolumus quod tu, ſive aliquis alius Vicecomes Regni noſtri praedicti, aut Apprenticius, aut alius homo ad legem aliquali<g ref="char:EOLhyphen"/>tur ſit electus. We will that nei<g ref="char:EOLhyphen"/>ther your ſelf nor any other She<g ref="char:EOLhyphen"/>riffe, or under-Sheriffe,</hi> (for ſo I conceive the word <hi>Apprenticius</hi> ſignifies there) <hi>nor any other per<g ref="char:EOLhyphen"/>ſon any way relating to the Law, be choſen.</hi> On occaſions of which, our <hi>Historians</hi> call this <hi>Parlia<g ref="char:EOLhyphen"/>ment,
+<pb n="52" facs="tcp:101487:28"/>Parliamentum Laicorum. A Parliament of meer Laicks;</hi> For although this exceeding <hi>learned</hi> and <hi>excellent Function</hi> (which requires vaſt ſtudy and experience to perfect it) be not ſacred, yet in the ſenſe of our <hi>Laws</hi> they are Clerks too, that are exceedingly well read and <hi>Learned</hi> as <hi>Clergy-men</hi> are, or ſhould be. From which uſe of the name <hi>Clerk</hi> (by I know not what cauſe) there are no Pen and Ink-horne men now re<g ref="char:EOLhyphen"/>lating to the <hi>Law,</hi> termed <hi>Clerks</hi> but thoſe that uſe Pen and Ink, in <hi>Courts,</hi> as <hi>Clerks of Parliament Roles, Clerks of Chancery,</hi> &amp;c.
+<pb n="53" facs="tcp:101487:28"/>But bleſſed be <hi>God</hi> that the <hi>Laws</hi> of this <hi>Kingdome</hi> are not ſo little <hi>cultivated</hi> or <hi>underſtood</hi> eſpeci<g ref="char:EOLhyphen"/>ally by <hi>Gentlemen</hi> of any <hi>note</hi> or account in this latter age, but that the intereſts of the <hi>Church</hi> and religion are ſufficiently conceived, and that by the <hi>con<g ref="char:EOLhyphen"/>stitution</hi> of this <hi>ſtate,</hi> the <hi>Lands,</hi> both of the <hi>Clergy,</hi> and them<g ref="char:EOLhyphen"/>ſelves are ſo founded, that one cannot be <hi>attacqued,</hi> or <hi>invaded,</hi> without a manifeſt <hi>wrong,</hi> to the very <hi>ſettlements,</hi> and <hi>freedoms</hi> of the other. And therefore little doubt that ſo many hundreds or thouſands ſhould ever com<g ref="char:EOLhyphen"/>bine, to do any acts of <hi>wrong</hi>
+               <pb n="54" facs="tcp:101487:29"/>and <hi>unrighteouſneſs</hi> to them, and therein (beſides the <hi>violation</hi> of their <hi>truſt</hi> and <hi>conſciences</hi>) <hi>weaken</hi> and <hi>enfeeble themſelves</hi> and their <hi>poſterities</hi> for ever.</p>
+            <p>Nor have theſe <hi>Church-pre<g ref="char:EOLhyphen"/>ferments</hi> been entailed to the <hi>off<g ref="char:EOLhyphen"/>ſpring</hi> of the <hi>Peaſantry,</hi> and com<g ref="char:EOLhyphen"/>mon people, which (for the moſt part) have not ability to give <hi>Education</hi> unto their Children, to <hi>qualify</hi> them for ſuch Offices; but have generally been the re<g ref="char:EOLhyphen"/>ward and ſupport of ſome bran<g ref="char:EOLhyphen"/>ches of the moſt <hi>ancient,</hi> and frequently of the moſt <hi>Honou<g ref="char:EOLhyphen"/>rable families</hi> of the whole <hi>King<g ref="char:EOLhyphen"/>dom;</hi> inſomuch as thoſe that
+<pb n="55" facs="tcp:101487:29"/>have been born to ſit with <hi>Prin<g ref="char:EOLhyphen"/>ces,</hi> have not diſdained (by a <hi>ſedulous</hi> and <hi>ſtudious life</hi>) to fit themſelves for thoſe <hi>dignities.</hi> Nor did the <hi>Policy</hi> of any former ages eſteem them ever the leſs qualified to ſerve their <hi>Princes,</hi> when they were ſo well prepa<g ref="char:EOLhyphen"/>red to ſerve <hi>God</hi> and his <hi>Church.</hi>
+            </p>
+            <p>This little <hi>Catalogue</hi> that I have ſubjoyned, will let you ſee that the <hi>dignities</hi> of the <hi>Church</hi> have been the <hi>Seats</hi> for ſeveral of the <hi>greateſt families</hi> of this <hi>Nation;</hi> which for the more ſpeed I have ſet down <hi>promiſ<g ref="char:EOLhyphen"/>cuouſly,</hi> without any orderly marſhalling: Thus,
+<pb n="56" facs="tcp:101487:30"/>
+               <list>
+                  <item>
+                     <hi>Agelnothus Biſhop of Cant.</hi> was <hi>Son of Earl Agel<g ref="char:EOLhyphen"/>mare.</hi>
+                  </item>
+                  <item>
+                     <hi>Athelmarus Biſhop of Winton</hi> was <hi>Son to Hugh Earl of March and Queen Iſabel.</hi>
+                  </item>
+                  <item>
+                     <hi>Henry de Bloys Bi<g ref="char:EOLhyphen"/>ſhop of Cant.</hi> was <hi>Brother to King Stephen.</hi>
+                  </item>
+                  <item>
+                     <hi>Hugh de Pudſey Biſhop of Durr<g ref="char:EOLhyphen"/>ham,</hi> was <hi>Earl of Northum<g ref="char:EOLhyphen"/>berland.</hi>
+                  </item>
+                  <item>
+                     <hi>Boniface of Savoy Biſhop of Cant.</hi> was <hi>
+                        <g ref="char:V">Ʋ</g>ncle to Queen Eleanor wife of Hen.</hi> 3.</item>
+                  <item>
+                     <hi>Richard Talbot Bi<g ref="char:EOLhyphen"/>ſhop of London,</hi> was <hi>Allyed to the Tal<g ref="char:EOLhyphen"/>bots after Earles of Shrewsberry.</hi>
+                  </item>
+                  <item>
+                     <hi>Henry Beaufort Bi<g ref="char:EOLhyphen"/>ſhop of Lincolne</hi> was <hi>Son of John of Gaunt.</hi>
+                  </item>
+                  <pb n="57" facs="tcp:101487:30"/>
+                  <item>
+                     <hi>Will. Courtney Bi<g ref="char:EOLhyphen"/>ſhop of Cant.</hi> was <hi>Son of Hugh Court<g ref="char:EOLhyphen"/>ney E. of Devon.</hi>
+                  </item>
+                  <item>
+                     <hi>Giles de Bruſe Bi<g ref="char:EOLhyphen"/>ſhop of Hereford</hi> was <hi>Son of Will. Lord de Bruſe.</hi>
+                  </item>
+                  <item>
+                     <hi>George Nevil Bi<g ref="char:EOLhyphen"/>ſhop of Exon</hi> was <hi>Brother to Richard Nevil Duke of Warwick.</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Peircy Bi<g ref="char:EOLhyphen"/>ſhop of Norwich</hi> was <hi>Allyed to the Pier<g ref="char:EOLhyphen"/>cies E. of Northum.</hi>
+                  </item>
+                  <item>
+                     <hi>Lionel Woodvil Biſhop of Sarum</hi> was <hi>Son to Earl Ri<g ref="char:EOLhyphen"/>vers of Sarum.</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Vipont Bi<g ref="char:EOLhyphen"/>ſhop of Carlile</hi> was <hi>Allyed to Viponts then Earls of Weſtmoreland.</hi>
+                  </item>
+                  <item>
+                     <hi>Marmarduke Lum<g ref="char:EOLhyphen"/>ley Biſhop of Car<g ref="char:EOLhyphen"/>lile</hi> was <hi>Allyed to the houſe of Lumley's.</hi>
+                  </item>
+                  <item>
+                     <hi>Walther Biſhop of Durrham</hi> was <hi>Earl of Northum<g ref="char:EOLhyphen"/>berland.</hi>
+                  </item>
+                  <pb n="58" facs="tcp:101487:31"/>
+                  <item>
+                     <hi>Julius de Medices Biſhop of Wor<g ref="char:EOLhyphen"/>ceſter</hi> was <hi>Allyed to the houſe of Medices in I<g ref="char:EOLhyphen"/>taly.</hi>
+                  </item>
+                  <item>
+                     <hi>Nicholas de Lon<g ref="char:EOLhyphen"/>geſpee Biſhop of Sarum</hi> was <hi>Son to Will. Earl of Salisbury</hi>
+                  </item>
+                  <item>
+                     <hi>Will Dudley Biſhop of Durrham</hi> was <hi>Son of Jo. Lord Dudley.</hi>
+                  </item>
+                  <item>
+                     <hi>Walter de Cantilu<g ref="char:EOLhyphen"/>po Biſhop of Wor<g ref="char:EOLhyphen"/>cester</hi> was <hi>Of a great houſe in Normandy.</hi>
+                  </item>
+                  <item>
+                     <hi>Lewes Beaumont Biſhop of Durr<g ref="char:EOLhyphen"/>ham</hi> was <hi>Of the Bloud Roy<g ref="char:EOLhyphen"/>all of France.</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Arundel Biſhop of Cant.</hi> was <hi>Son to Rob. Earl of Arundell and Warren.</hi>
+                  </item>
+                  <pb n="59" facs="tcp:101487:31"/>
+                  <item>
+                     <hi>James Berkley Bi<g ref="char:EOLhyphen"/>ſhop Exon</hi> was <hi>Son to the Lord Berkley.</hi>
+                  </item>
+                  <item>
+                     <hi>Rich. Scroope Bi<g ref="char:EOLhyphen"/>ſhop Cov. and Litchf.</hi> was <hi>Brother to Will. Scroope Earl of Wiltſhire.</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Bourchier Biſhop Cant.</hi> was <hi>Son to Hen. Bour<g ref="char:EOLhyphen"/>chier Earl of Eſſex.</hi>
+                  </item>
+                  <item>
+                     <hi>Roger de Clinton Biſhop Cov. and Lichf.</hi> was <hi>Of the ſame family with Geofery de Clinton.</hi>
+                  </item>
+                  <item>
+                     <hi>Jo. Stafford Biſhop Cant.</hi> was <hi>Son to the Earl of Stafford.</hi>
+                  </item>
+                  <item>
+                     <hi>Will. de Vere Bi<g ref="char:EOLhyphen"/>ſhop Heref.</hi> was <hi>Brother to the Earl of Oxon.</hi>
+                  </item>
+                  <item>
+                     <hi>Richard Beau<g ref="char:EOLhyphen"/>champ B. Here<g ref="char:EOLhyphen"/>ford</hi> was <hi>Allyed to Beau<g ref="char:EOLhyphen"/>champ then Duke of Warwick.</hi>
+                  </item>
+                  <pb n="60" facs="tcp:101487:32"/>
+                  <item>
+                     <hi>Jo. Grandiſon B. Exon</hi> was <hi>Of the houſe of Grandiſons Dukes of Burgundy.</hi>
+                  </item>
+                  <item>
+                     <hi>Edmund Audley B. Heref.</hi> was <hi>Allyed to Audley E. of Gloceſter.</hi>
+                  </item>
+                  <item>
+                     <hi>Hen. Burweſh B. Line.</hi> was <hi>Nephew to the Ba<g ref="char:EOLhyphen"/>ron of Leeds</hi>
+                  </item>
+                  <item>
+                     <hi>Jo. Zouch B. Llan<g ref="char:EOLhyphen"/>daff.</hi> was <hi>Brother to the Lord Zouch.</hi>
+                  </item>
+                  <item>
+                     <hi>Hen. Beaufort B. Linc.</hi> was <hi>Allyed to the Beau<g ref="char:EOLhyphen"/>forts E. of Dorſet.</hi>
+                  </item>
+                  <item>
+                     <hi>Fulco Baſſet B. Lond</hi> was <hi>Lord Baſſet.</hi>
+                  </item>
+                  <item>
+                     <hi>James Stanly B. Ely</hi> was <hi>Brother to the Earl of Darby.</hi>
+                  </item>
+                  <item>
+                     <hi>Simon Montacute B. of Ely</hi> was <hi>Allyed to the Mon<g ref="char:EOLhyphen"/>tacutes then Earls of Salisbury.</hi>
+                  </item>
+               </list>
+            </p>
+            <pb n="61" facs="tcp:101487:32"/>
+            <p>I might extreamly enlarge this, if there were either time, room, or need ſo to do. And as for the <hi>Gentry,</hi> and the <hi>Law<g ref="char:EOLhyphen"/>yers,</hi> and <hi>Merchants,</hi> which ac<g ref="char:EOLhyphen"/>cording to the <hi>conſtitution</hi> of this <hi>Kingdome</hi> are to be had in no ſmall regard; very few of all the <hi>Biſhops</hi> of this <hi>Kingdome</hi> have been from any <hi>lower families</hi> than ſuch; or if here and there one have riſen from ſmall <hi>begin<g ref="char:EOLhyphen"/>nings,</hi> it hath been extraordi<g ref="char:EOLhyphen"/>nary <hi>merit, parts,</hi> and <hi>induſtry,</hi> that have been the means of their promotions. And ſuch unthought-off advancement is common to the <hi>Laity,</hi> as well
+<pb n="62" facs="tcp:101487:33"/>as the <hi>Clergy,</hi> amongſt whom, many of the now <hi>higheſt rank,</hi> may attribute their <hi>riſe</hi> purely to the <hi>grace</hi> and <hi>favour</hi> of <hi>Prin<g ref="char:EOLhyphen"/>ces, who</hi> (as one ſaith) <hi>have ſo much of God in them (whoſe depu<g ref="char:EOLhyphen"/>ties they are) that they oftentimes raiſe the poor out of the duſt, that they may ſet than with Princes, e<g ref="char:EOLhyphen"/>ven with the Princes of their people.</hi> And although theſe <hi>preferments</hi> and <hi>dignities</hi> in the <hi>Church,</hi> have in this latter age, fallen more generally to the hands of ſuch, that have been the Branches of <hi>Knightly</hi> and <hi>Gentile Families,</hi> and not to thoſe that are the <hi>Sprouts</hi> of <hi>Peers,</hi> there is no reaſon that
+<pb n="63" facs="tcp:101487:33"/>the <hi>Peers</hi> ſhould <hi>envy</hi> this <hi>honour</hi> and <hi>advantage</hi> unto thoſe <hi>Worthy Families,</hi> and neither <hi>accept</hi> of thoſe <hi>imployments</hi> themſelves; nor be content that others en<g ref="char:EOLhyphen"/>joy them; there is no cauſe that while they eſteem thoſe <hi>advan<g ref="char:EOLhyphen"/>tages</hi> too <hi>ſmall</hi> for the <hi>leaſt Peers,</hi> they ſhould conclude them too liberal, or ſplendid, for the beſt Commons. Eſpecially when by a <hi>chargeable Education</hi> and a <hi>painful</hi> and <hi>induſtrious Life</hi> they have acquired <hi>learning</hi> and <hi>parts</hi> to be able to undergo them, to the <hi>glory of God,</hi> and the <hi>honour of their houſes.</hi> It were moſt un<g ref="char:EOLhyphen"/>reaſonable and diſingenious, for
+<pb n="64" facs="tcp:101487:34"/>the <hi>Nobility</hi> after themſelves are entered into the <hi>Court of Honour</hi> to pull up a <hi>Draught-Bridg</hi> and ſhut to the <hi>Gates</hi> that none elſe may enter. There are but theſe <hi>two ways</hi> for the <hi>Commons</hi> by <hi>me<g ref="char:EOLhyphen"/>rit</hi> to aſpire unto <hi>honours;</hi> by the <hi>Gown;</hi> and by the <hi>Sword.</hi> And if this way ſhould ever be bayed up, the reſt, of the pathes of the <hi>Gown,</hi> would become ſo wondrous <hi>rough</hi> and <hi>uneven,</hi> that there would hardly any ready way for them to come unto <hi>dig<g ref="char:EOLhyphen"/>nities</hi> remain, but what they could dig out with the <hi>Sword.</hi> For, as for <hi>riches,</hi> It is much more uncertainly attained by all
+<pb n="65" facs="tcp:101487:34"/>induſtry, than <hi>Wiſdom</hi> and <hi>Learn<g ref="char:EOLhyphen"/>ing;</hi> and if the rewards and incouragement of <hi>Learning</hi> and <hi>Piety</hi> ſhould without all ſenſe of <hi>Law,</hi> be ever withdrawn, we were likely to have <hi>Stateſ-men</hi> no further <hi>accompliſht,</hi> than the ſight of a <hi>Court,</hi> and the inſtru<g ref="char:EOLhyphen"/>ction of a <hi>Theater</hi> could do it; which at moſt would be but this; that the firſt will teach them a <hi>phantaſtical dreſs,</hi> and the other as <hi>phantaſtical a Diſcourſe;</hi> which would much prepare them to treat <hi>Ladies,</hi> but nothing at all enable them to contribute any thing towards the <hi>steering</hi> of a <hi>State.</hi>
+            </p>
+            <pb n="66" facs="tcp:101487:35"/>
+            <p>As now things ſtand, <hi>Religi<g ref="char:EOLhyphen"/>on</hi> and the <hi>houſe of God</hi> have ſomething elſe beſides their na<g ref="char:EOLhyphen"/>tive purity and holineſs, to in<g ref="char:EOLhyphen"/>vite the <hi>Gentry</hi> to take this Yoak on them; for if there be not a <hi>ſplendid,</hi> yet there is a <hi>convenient encouragement and maintenance</hi> for them; and if they are de<g ref="char:EOLhyphen"/>ſigned for other <hi>imployments;</hi> the <hi>road</hi> by which they are to trace <hi>Learning</hi> (that muſt fit them for great <hi>undertakings</hi>) is not without <hi>conſiderable helps.</hi> This (if I miſtake not) is well enough underſtood; for there are very few families, eſpecial<g ref="char:EOLhyphen"/>ly under the <hi>Equestrial degree,</hi>
+               <pb n="67" facs="tcp:101487:35"/>but either have now, or have had ſome branches of them pro<g ref="char:EOLhyphen"/>vided for in the Schools, Uni<g ref="char:EOLhyphen"/>verſity, or the Church, or in all of them. Who are now for the moſt part the <hi>Schollers</hi> of the <hi>Schools</hi> of the moſt <hi>ample foun<g ref="char:EOLhyphen"/>dations</hi> of <hi>Winton, Weſtminster, Eaton,</hi> but <hi>Gentlemens Sons?</hi> who generally in the beſt en<g ref="char:EOLhyphen"/>dowed <hi>Colledges</hi> of the <hi>
+                  <g ref="char:V">Ʋ</g>niverſi<g ref="char:EOLhyphen"/>ties,</hi> but <hi>Gentlemens Sons?</hi> And in the whole <hi>Churches</hi> of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> where there is one perſon dignified that is not, there are three that are <hi>Gentlemen.</hi> Nay, what <hi>Family</hi> under the degree of <hi>honour</hi> in the whole <hi>Kingdome,</hi>
+               <pb n="68" facs="tcp:101487:36"/>is there, that hath neither <hi>Son,</hi> nor <hi>Nephew,</hi> nor <hi>Father,</hi> nor <hi>
+                  <g ref="char:V">Ʋ</g>ncle,</hi> that are not, or have not been <hi>incouraged,</hi> if not main<g ref="char:EOLhyphen"/>tained, by the <hi>revenue</hi> of the <hi>Church?</hi> I am ſure, very few. And what ready way have <hi>Gentlemen</hi> that by <hi>misfortune,</hi> or <hi>illneſs of times</hi> fall to decay, to provide for their Children, but this? when none elſe will do a<g ref="char:EOLhyphen"/>ny thing for them, the ſolicita<g ref="char:EOLhyphen"/>tion and mediation of their friends will prevail that the moſt <hi>hopefull</hi> and <hi>promiſing</hi> of their off-ſpring will in this <hi>prudent</hi> and <hi>Religious manner</hi> be provi<g ref="char:EOLhyphen"/>ded for. Whereas if ever the
+<pb n="69" facs="tcp:101487:36"/>
+               <hi>revenues</hi> of the <hi>Church</hi> ſhould be taken away, the <hi>conſequent</hi> will be inevitably this; <hi>Learning ſhall decay, ſuch Families be helpleſe,</hi> and <hi>Religion</hi> as a <hi>low</hi> and <hi>con<g ref="char:EOLhyphen"/>temptible</hi> thing come into the hands of none but thoſe, that are, <hi>de Foece plebis, of the Scum</hi> and baſeſt of the people.</p>
+            <p>And whereas thoſe <hi>Harpies</hi> that gape for the ſpoyle of the Church, to conſume it on <hi>Fidlers</hi> and <hi>Whores,</hi> do uſually ſuggeſt the <hi>Prodigality</hi> of their <hi>Predeceſ<g ref="char:EOLhyphen"/>ſors,</hi> in ſo liberal indowment of the <hi>Church:</hi> as if all the <hi>mainte<g ref="char:EOLhyphen"/>nance</hi> of the <hi>Clergie,</hi> and all the endowments of <hi>Schools</hi> and <hi>Col<g ref="char:EOLhyphen"/>ledges;</hi>
+               <pb n="70" facs="tcp:101487:37"/>and as if all the <hi>publique buildings,</hi> the <hi>monuments</hi> of <hi>piety</hi> and <hi>charity</hi> of the former Ages, had been Money out of their Purſes, and meerly the good works of the <hi>Laity</hi> only; this is a very groſs <hi>errour</hi> and <hi>miſtake.</hi> I cannot indeed deny, but God hath in all times raiſed up ſome <hi>Pious</hi> and <hi>Munificent perſons</hi> a<g ref="char:EOLhyphen"/>mongſt them to be <hi>benefactors,</hi> eſpecially by ſeveral <hi>Godly Kings</hi> to do <hi>glorious things</hi> to the <hi>en<g ref="char:EOLhyphen"/>couragement</hi> of <hi>Religious men,</hi> (and truly of whom ſhould good be expected if not of thoſe whoſe Office it is, <hi>to be nurſing Fathers to Gods Church</hi>) yet ma<g ref="char:EOLhyphen"/>ny
+<pb n="71" facs="tcp:101487:37"/>of the moſt <hi>ample foundations,</hi> and the beſt <hi>endowments</hi> for <hi>Learning,</hi> and <hi>Piety,</hi> have been <hi>ſhafts</hi> from the <hi>quiver</hi> of <hi>Clergy<g ref="char:EOLhyphen"/>men</hi> themſelves, eſpecially when they lived <hi>ſingle,</hi> and made Con<g ref="char:EOLhyphen"/>ſcience to leave their Inheritan<g ref="char:EOLhyphen"/>ces in the <hi>Lap</hi> and <hi>Boſome</hi> of her from whence they had received it. This the <hi>Law</hi> it ſelf con<g ref="char:EOLhyphen"/>feſſeth; and therefore although in the <hi>Statutes of Mortmain</hi> before mentioned, there is ſo perfect an inveſtiture of the <hi>Lands</hi> given <hi>(without leave firſt obtained)</hi> in the <hi>Lords of the Fee,</hi> and in their neglect in the <hi>King:</hi> yet if <hi>Pre<g ref="char:EOLhyphen"/>lates, Clerks beneficed, or any Re<g ref="char:EOLhyphen"/>ligious
+<pb n="72" facs="tcp:101487:38"/>perſon have purchaſed lands and have put the ſame in Mort<g ref="char:EOLhyphen"/>main, although they cannot ſhew that they have entred by due pro<g ref="char:EOLhyphen"/>ceſs, after licenſe obtained, they ſhall yet be gently received to make convenient Fine,</hi> 18 Ed. 3. pro Clero. cap. 3.<note place="margin">18 Ed. 3. pro Clero. <hi>cap.</hi> 3.</note> I might fill a Vo<g ref="char:EOLhyphen"/>lume if I ſhould attempt to give inſtance in all particulars of the <hi>pious works</hi> and <hi>Indowments</hi> that the <hi>Clergie</hi> in former Ages have done. But as a taſte of the reſt, I ſhall onely give examples of ſome of the moſt <hi>conspicuous</hi> and <hi>viſible</hi> of them; ſuch as <hi>Colledges</hi> dedicated to <hi>Learning,</hi> and <hi>Chur<g ref="char:EOLhyphen"/>ches,</hi> eſpecially of the moſt
+<pb n="73" facs="tcp:101487:38"/>
+               <hi>ſtately</hi> and <hi>magnificent ſtructure, dedicated to the honour and worſhip of God,</hi> and the like publique <hi>monuments;</hi> which I ſhal ſet down promiſcuouſly, as they follow.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>
+                        <hi>Chriſt Church in Can<g ref="char:EOLhyphen"/>terbury</hi> (i. e.) <hi>the Fabrick now ſtan<g ref="char:EOLhyphen"/>ding</hi>
+                     </cell>
+                     <cell>
+                        <hi>Built by Arch Biſhop Lanfrank, and con<g ref="char:EOLhyphen"/>tinued by William Corboyle, and perfe<g ref="char:EOLhyphen"/>cted by their ſucceſ<g ref="char:EOLhyphen"/>ſors.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Our Lady Church in Sarum was Foun<g ref="char:EOLhyphen"/>ded</hi>
+                     </cell>
+                     <cell>
+                        <hi>By Richard Poor Bi<g ref="char:EOLhyphen"/>ſhop of Sarum, and finiſhed by Biſhop Bridport.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>St. Andrews Church in Wells that now ſtands was firſt Foun<g ref="char:EOLhyphen"/>ded</hi>
+                     </cell>
+                     <cell>
+                        <hi>By Biſhop Robert,</hi> 18th <hi>Biſhop of that See; and finiſhed by Bi<g ref="char:EOLhyphen"/>ſhop Joſeline.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>St. Peters Church in Chicheſter new built by</hi>
+                     </cell>
+                     <cell>
+                        <hi>Radulph</hi> 3d <hi>Biſhop, after that was con<g ref="char:EOLhyphen"/>ſumed by fire, was rebuilt by Siſſifridus.</hi>
+                     </cell>
+                  </row>
+                  <pb n="74" facs="tcp:101487:39"/>
+                  <row>
+                     <cell>
+                        <hi>St. Mary's Church in Lichfeild which now ſtandeth was built by</hi>
+                     </cell>
+                     <cell>
+                        <hi>Roger de Clinton Bi<g ref="char:EOLhyphen"/>ſhop of that Dioceſs.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>St. Daniels in Bangor after it was ruined by the Revel Owen Glendowr, was built by</hi>
+                     </cell>
+                     <cell>
+                        <hi>Henry Deane Biſhop of Bangor.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Trinity Church in Winton now ſtanding begun by</hi>
+                     </cell>
+                     <cell>
+                        <hi>Biſhop Walklin conti<g ref="char:EOLhyphen"/>nued by his ſucceſ<g ref="char:EOLhyphen"/>ſors, finiſhed by Wil<g ref="char:EOLhyphen"/>liam of Wickham.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>St. Mary's Church in Oxon Founded by</hi>
+                     </cell>
+                     <cell>
+                        <hi>Dr. Fitz James after<g ref="char:EOLhyphen"/>ward Biſhop of Lon<g ref="char:EOLhyphen"/>don.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>St. Peter's Church in York, which now ſtandeth erected by</hi>
+                     </cell>
+                     <cell>
+                        <hi>Tho. the</hi> 25th <hi>Biſhop of that See.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>The Church of Ely that is now ſtanding, built by</hi>
+                     </cell>
+                     <cell>
+                        <hi>Biſhop Norwold, Kidall, and others.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>The Cathedral Church of St. Davids, built by</hi>
+                     </cell>
+                     <cell>
+                        <hi>Peter</hi> 48th <hi>Biſhop of that Dioceſs.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>St. Peter's in Exceter as now it ſtandeth</hi>
+                     </cell>
+                     <cell>
+                        <hi>To Warlwaſt Quivil and Grandiſon three</hi>
+                     </cell>
+                  </row>
+                  <pb n="75" facs="tcp:101487:39"/>
+                  <row>
+                     <cell>
+                        <hi>oweth it ſelf to</hi>
+                     </cell>
+                     <cell>
+                        <hi>three Biſhops of the ſame See.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>The ſtately Structure of the Cathedral Church of Gloceſter was firſt Founded by</hi>
+                     </cell>
+                     <cell>
+                        <hi>Aldred Arch-Biſhop of York.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>The now ſtanding Ca<g ref="char:EOLhyphen"/>thedral Church of Hereford was the work of</hi>
+                     </cell>
+                     <cell>
+                        <hi>Biſhop Reinelme and his ſucceſſors.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>The Cathedral of Lin<g ref="char:EOLhyphen"/>colne was firſt Foun<g ref="char:EOLhyphen"/>ded by</hi>
+                     </cell>
+                     <cell>
+                        <hi>Biſhop Remigius en<g ref="char:EOLhyphen"/>larged by Alexander, and perfected as now it is hy Hugh of Bur<g ref="char:EOLhyphen"/>gundy his ſucceſſor.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>The Church of Saint Paul in London, having once before been burnt and con<g ref="char:EOLhyphen"/>ſumed with fire, was rebuilt by</hi>
+                     </cell>
+                     <cell>
+                        <hi>Mauritius, Richardus, Biſhops of London, and others their ſucceſ<g ref="char:EOLhyphen"/>ſors.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>The Trinity Church in Norwich was firſt built by</hi>
+                     </cell>
+                     <cell>
+                        <hi>Herberius Ioſinga Bi<g ref="char:EOLhyphen"/>ſhop there, and being twice burnt was twice after rebuilt, the firſt time by John John of Oxford, the Second time by Bi<g ref="char:EOLhyphen"/>ſhop Meddleton.</hi>
+                     </cell>
+                  </row>
+                  <pb n="76" facs="tcp:101487:40"/>
+                  <row>
+                     <cell>
+                        <hi>The Church of Peter-burgh afer it was burnt by the Danes was again built by</hi>
+                     </cell>
+                     <cell>
+                        <hi>Ethelwoldus Biſhop of Winton.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>The Cathedral Church of Worceſter was new built, by</hi>
+                     </cell>
+                     <cell>
+                        <hi>Oſwald the</hi> 18th <hi>Bi<g ref="char:EOLhyphen"/>ſhop, but after it was burnt by the Danes, it was brought to that perfection it now hath, by Wulſtan a ſucceeding Biſhop.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>St. Andrews Church in Rocheſter was re<g ref="char:EOLhyphen"/>built by</hi>
+                     </cell>
+                     <cell>
+                        <hi>Gundulphus Biſhop of that See.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>The Cathedral Church of Durrham was Founded by</hi>
+                     </cell>
+                     <cell>
+                        <hi>Aldwynus Biſhop of the ſame. That which now ſtandeth was be<g ref="char:EOLhyphen"/>gun by Biſhop Willi<g ref="char:EOLhyphen"/>am de Carileſo, and finiſhed by Ranulphus Flambard his ſucceſ<g ref="char:EOLhyphen"/>ſor.</hi>
+                     </cell>
+                  </row>
+                  <pb n="77" facs="tcp:101487:40"/>
+                  <row>
+                     <cell>
+                        <hi>Magdalen Col. in Oxon with the Chappel an<g ref="char:EOLhyphen"/>nexed, was Founded by</hi>
+                     </cell>
+                     <cell>
+                        <hi>William of Wainfleet Biſhop of Winton.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Trinity Col. Originally Founded by Tho. Hat<g ref="char:EOLhyphen"/>field</hi>
+                     </cell>
+                     <cell>
+                        <hi>Biſhop of Durrham.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>All-Souls Col. by</hi>
+                     </cell>
+                     <cell>
+                        <hi>Hen. Chichely Arch Bi<g ref="char:EOLhyphen"/>ſhop of Canterbury.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Merton Col with the Chappel and Tower annexed, by</hi>
+                     </cell>
+                     <cell>
+                        <hi>Walter Merton Biſhop of Rocheſter.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Exceter Col. by</hi>
+                     </cell>
+                     <cell>
+                        <hi>Walter Stapleton Bi<g ref="char:EOLhyphen"/>ſhop of Exceter.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Queens Colledg in Ox<g ref="char:EOLhyphen"/>on, by</hi>
+                     </cell>
+                     <cell>
+                        <hi>Robert Egliſhfield Chap<g ref="char:EOLhyphen"/>lain to Queen Phillip. Wife of Ed.</hi> 3.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>New Col. and the Ap<g ref="char:EOLhyphen"/>pendant Colledg and School of Winton, by</hi>
+                     </cell>
+                     <cell>
+                        <hi>William of Wickham Biſhop of Winton.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Lincoln Colledg was Founded by</hi>
+                     </cell>
+                     <cell>
+                        <hi>Richard Flemming Bi<g ref="char:EOLhyphen"/>ſhop of Lincoln.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>St. John's Col. in Oxon Originally Founded, before the diſſolution by Hen.</hi> 8. <hi>by</hi>
+                     </cell>
+                     <cell>
+                        <hi>Hen. Chichely Arch-Bi<g ref="char:EOLhyphen"/>ſhop ſhop of Canterbury.</hi>
+                     </cell>
+                  </row>
+                  <pb n="78" facs="tcp:101487:41"/>
+                  <row>
+                     <cell>
+                        <hi>St. Croſſes Hoſpital and Church Founded by</hi>
+                     </cell>
+                     <cell>
+                        <hi>Henry Beaufort Biſhop of Winton</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Catherine Hall in Cambridg Founded by</hi>
+                     </cell>
+                     <cell>
+                        <hi>Robert Woodlark DD.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Jeſus Colledg in Cam<g ref="char:EOLhyphen"/>bridg Founded by</hi>
+                     </cell>
+                     <cell>
+                        <hi>Jo. Alcock Biſhop of Ely.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>St. John's Colledg in Cambridg was firſt Founded by</hi>
+                     </cell>
+                     <cell>
+                        <hi>Nigellus the Second Biſhop of Ely, after<g ref="char:EOLhyphen"/>wards endowed and enlarged by Hugh Balſham a ſucceeding Biſhop.</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>So that it appears that many of the beſt and moſt <hi>ample foun<g ref="char:EOLhyphen"/>dations,</hi> of the moſt <hi>noble</hi> and <hi>ad<g ref="char:EOLhyphen"/>mirable Piles</hi> and <hi>ſtructures,</hi> of the moſt <hi>coſtly publique workes</hi> and <hi>buildings,</hi> that beautifie <hi>Cities</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>niverſities,</hi> that make this <hi>King<g ref="char:EOLhyphen"/>dome famous in forrain parts;</hi> and
+<pb n="79" facs="tcp:101487:41"/>that here ſerve for the <hi>glory of God,</hi> and the <hi>publick good,</hi> have been <hi>founded</hi> and <hi>indowed</hi> by the <hi>Clergie.</hi> The <hi>builders</hi> of the firſt <hi>Tower</hi> in the World that we read of, were juſtly chaſtiſed with <hi>confuſion</hi> of their <hi>Language,</hi> for their rebellion againſt <hi>God,</hi> for they ſayd, <hi>Gen.</hi> 11.4. <hi>Let us build us a Tower whoſe top may reach to Heaven;</hi> not that they deſigned that it ſhould indeed touch Heaven, for then the whole <hi>Plain</hi> in the Land of <hi>Shinar</hi> had been too little for the <hi>foundation,</hi> nay, it may be the whole <hi>Earth</hi> it ſelfe; but the meaning is, <hi>a ve<g ref="char:EOLhyphen"/>ry high Tower,</hi> ſuch as might be
+<pb n="80" facs="tcp:101487:42"/>a place of <hi>ſanctuary</hi> to them, a<g ref="char:EOLhyphen"/>gainſt any future <hi>Deluge.</hi> For whereas they underſtood that the <hi>Waters</hi> in the <hi>Flood</hi> prevail<g ref="char:EOLhyphen"/>ed on the earth but <hi>fifteen cubits</hi> upwards, as <hi>Cap.</hi> 7.20. they imagined that this <hi>mole</hi> (ſo much above the tops of the higheſt <hi>mountaines</hi>) would ſecure them in the like caſe, and being made of <hi>Bricks too</hi> (which had endu<g ref="char:EOLhyphen"/>red the teſt of fire) might pro<g ref="char:EOLhyphen"/>tect them from the force of that furious <hi>Element,</hi> which they had <hi>traditionally</hi> received, ſhould be the means of a ſecond <hi>deſtruction</hi> of the <hi>World.</hi> Thus they thought to elude <hi>Divine vengeance,</hi> and
+<pb n="81" facs="tcp:101487:42"/>to arme themſelves againſt the force of <hi>Heaven,</hi> which nothing is able to effect but <hi>innocency</hi> and <hi>holineſs of Life.</hi> And truly had they not thus erred in the <hi>main,</hi> the other <hi>lower ends</hi> of this work would not have failed them, which they expreſs in the next words; <hi>Let us make us a Name, leaſt we be ſcattered abroad upon the face of the earth:</hi> For cer<g ref="char:EOLhyphen"/>tainly it was a very likely means to perpetuate their <hi>Name</hi> and <hi>Glory,</hi> and was beſides, as a <hi>Standard</hi> to which they might at any time repair in caſe of <hi>disper<g ref="char:EOLhyphen"/>ſion.</hi> What theſe deſigned, though rebelliouſly againſt God,
+<pb n="82" facs="tcp:101487:43"/>is really performed to us, by thoſe <hi>noble</hi> and <hi>ſtupend ſtructures</hi> devoted to <hi>Gods honour;</hi> it gets us both a <hi>name,</hi> and is as <hi>ſtan<g ref="char:EOLhyphen"/>dards</hi> for us to apply to in caſe of diſperſion; as <hi>holy ſanctuaries</hi> to fly too to ſeek the <hi>God of ſal<g ref="char:EOLhyphen"/>vation;</hi> and cannot chooſe but be exceedingly the glory of the Nation, that is ſo much for the glory of the Lord. And this is a thing ſo confeſſed and certain, that <hi>Cromwell</hi> (that great enemy to every thing that was good) meerly for the <hi>greatneſs</hi> of the <hi>Workes,</hi> and becauſe they were ſuch <hi>Ornaments</hi> to the places where they are built, ſaved them
+<pb n="83" facs="tcp:101487:43"/>from ruine, when nothing <hi>ſacred</hi> was ſpared beſides. But to con<g ref="char:EOLhyphen"/>clude, If it were not for <hi>Cathe<g ref="char:EOLhyphen"/>dral Churches,</hi> and the <hi>Sees</hi> of <hi>Biſhops,</hi> our <hi>Nobleſt</hi> and moſt re<g ref="char:EOLhyphen"/>nouned <hi>Cities</hi> in the whole <hi>King<g ref="char:EOLhyphen"/>dome,</hi> would be of no more <hi>ac<g ref="char:EOLhyphen"/>count</hi> then the <hi>poorest, baſeſt,</hi> and moſt <hi>pedling Burroughs. John, Mayor of Brackley</hi> would govern as <hi>noble ſociety</hi> of men, as the <hi>Lord Mayor of London;</hi> and <hi>Wot<g ref="char:EOLhyphen"/>ton-Baſſet</hi> contend with <hi>Briſtoll.</hi> For the <hi>Law</hi> defines a <hi>City</hi> thus, <hi>Citie eſt teil ville corporate que ad un Eveſque &amp; un Egliſe Cathedral, A City is a Town-corporate, which hath a Biſhop and a Cathedrall
+<pb n="84" facs="tcp:101487:44"/>Church.</hi> And ſo <hi>Caſſanaeus</hi> af<g ref="char:EOLhyphen"/>firming that there are in <hi>France</hi> 104. <hi>Cities,</hi> gives this reaſon of it, <hi>Pur ceo que la ſont pluſours Sees de Archieueſques &amp; Eueſques; be<g ref="char:EOLhyphen"/>cauſe there are ſo many Sees of Arch Biſhops and Biſhops.</hi> I know very well that there are too many fa<g ref="char:EOLhyphen"/>ctious and giddy people, that aim at nothing but <hi>parity</hi> and <hi>le<g ref="char:EOLhyphen"/>velling</hi> in <hi>Churches, Cities, Clergie,</hi> and <hi>People,</hi> in all perſons and ſo<g ref="char:EOLhyphen"/>cieties; and that <hi>John</hi> may be a <hi>Lord,</hi> would have every <hi>Lord</hi> a <hi>meer John.</hi> They would <hi>debaſe</hi> and bring down all <hi>dignities</hi> and <hi>h nours</hi> to the rate and ſieze of their own <hi>education</hi> and <hi>merits.</hi>
+               <pb n="85" facs="tcp:101487:44"/>But I ſpupoſe that I write to men of <hi>ſobriety</hi> and <hi>reaſon;</hi> to men that have <hi>honours</hi> or <hi>eſtates</hi> to looſe; and ſuch I beleive do well un<g ref="char:EOLhyphen"/>derſtand that the onely way to prevent <hi>ruine</hi> and <hi>confuſion</hi> is the <hi>ſtability</hi> of the <hi>Laws,</hi> and the <hi>ſted<g ref="char:EOLhyphen"/>faſtneſs</hi> and <hi>continuance</hi> of the <hi>con<g ref="char:EOLhyphen"/>ſtitutions</hi> and <hi>Sanctions</hi> of this <hi>Kingdome. Non capitur, qui jus publicum ſequitur. He ſhall never be inſnared, that depends on the known and publick Laws.</hi> But if this <hi>dependance</hi> be ever removed out of the hands of that genera<g ref="char:EOLhyphen"/>tion of men that have <hi>fitted</hi> them<g ref="char:EOLhyphen"/>ſelves for <hi>holy ſervices,</hi> the <hi>Laws</hi> that gave a ſecurity of thoſe in<g ref="char:EOLhyphen"/>couragements,
+<pb n="86" facs="tcp:101487:45"/>are turned into meer <hi>trapps</hi> and <hi>ſnares</hi> to invite them into <hi>Offices, Dignities,</hi> and <hi>Imploiments,</hi> and there leave them <hi>expoſed, naked,</hi> and <hi>derided.</hi> Juſt as ſome <hi>Factious perſons</hi> would have the <hi>Act of <g ref="char:V">Ʋ</g>niformity</hi> become to all the <hi>Sober</hi> and obe<g ref="char:EOLhyphen"/>dient <hi>Clergie</hi> of the <hi>Kingdome,</hi> (that when it hath (under the ſevere penalty of <hi>Deprivation</hi>) exacted a <hi>Subſcription</hi> and an ex<g ref="char:EOLhyphen"/>act <hi>Conformity;</hi> and by this means, drawn in a vaſt number of men, that were not altoge<g ref="char:EOLhyphen"/>ther ſo well ſatisfied in ſome particulars; becauſe they would not incur the <hi>cenſure</hi> of <hi>unpeaca<g ref="char:EOLhyphen"/>ble
+<pb n="87" facs="tcp:101487:45"/>men,</hi> of <hi>Separatiſts,</hi> of being <hi>ſtiffe</hi> and <hi>stubborn</hi> againſt <hi>Nation<g ref="char:EOLhyphen"/>all Laws;</hi> thinking, that for peace and order ſake, it was but reaſonable to lay aſide ſome contracted <hi>prejudices,</hi> and ſub<g ref="char:EOLhyphen"/>mit their private <hi>ſentiments</hi> to the judgment of a <hi>Convocation</hi> and <hi>Parliament,</hi> eſpecially for this, becauſe they might not other<g ref="char:EOLhyphen"/>wiſe exerciſe their <hi>Miniſtery</hi>) that now ſome <hi>Law of Tolleration</hi> ſhould be made, to let in all the <hi>ſtubborn</hi> and <hi>unpeaceable,</hi> and con<g ref="char:EOLhyphen"/>ſequently, make the moſt <hi>obe<g ref="char:EOLhyphen"/>dient</hi> and <hi>honeſt hearted Clergie,</hi> paſs under the character of <hi>Co<g ref="char:EOLhyphen"/>wards, Temporizers, Men of a
+<pb facs="tcp:101487:46"/>large conſcience,</hi> and the like, to their infinite reproach, and <hi>diſ<g ref="char:EOLhyphen"/>couragement;</hi> the conſequent of which (if it could be effected) would be inevitably <hi>this,</hi> that all ſober and wiſe men (if in any thing they diſſent from the <hi>publique opinions</hi>) ſhall be for ever diſcouraged from yielding up their <hi>apprehenſions</hi> to the <hi>pub<g ref="char:EOLhyphen"/>lique quiet;</hi> leaſt when they have done it, they be expoſed to <hi>ſcorne</hi> and <hi>contempt,</hi> for their <hi>obe<g ref="char:EOLhyphen"/>dience.</hi> There is no prudent Man (I conceive) can have ſo low and diſhonourable eſteem of the greateſt and graveſt <hi>Coun<g ref="char:EOLhyphen"/>cil</hi> of this <hi>Kingdom,</hi> the <hi>Parlia<g ref="char:EOLhyphen"/>ment,</hi>
+               <pb facs="tcp:101487:46"/>to imagine that they ſhould be ſo unſtedfaſt to them<g ref="char:EOLhyphen"/>ſelves or others, to hearken to ſuch <hi>ſuggeſtions,</hi> and ſo toſs the <hi>Intereſts</hi> of the whole <hi>State</hi> like <hi>Shuttlecocks;</hi> or think ſo poor<g ref="char:EOLhyphen"/>ly of their <hi>Faith</hi> or <hi>Honour,</hi> that they ſhould by <hi>ſevere penal<g ref="char:EOLhyphen"/>ties</hi> and <hi>ſtrict Laws,</hi> hunt men into an <hi>intricate</hi> and <hi>troubleſome duty</hi> and <hi>condition,</hi> upon hope of <hi>encouragement</hi> and <hi>reward,</hi> and then leave them in the <hi>lurch;</hi> or that <hi>Law-givers</hi> ſhould ever unravel the whole texture of the preſent conſtitutions, <hi>to ſet up unrighteouſneſs by a Law.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
